@@ -1,6 +1,7 @@
-// Словарь B1. Формат строки: слово|перевод|пример. Строки с # — названия тем.
-window.DE_WORDS = window.DE_WORDS || {};
-window.DE_WORDS.B1 = `
+// Словарь B1.
+// Каждая строка: немецкое слово | перевод | пример.
+// Строка, которая начинается с #, — название темы.
+const WORDS_B1 = `
 # Общество и политика
 die Gesellschaft|общество|Die Gesellschaft verändert sich schnell.
 die Politik|политика|Ich interessiere mich für Politik.
