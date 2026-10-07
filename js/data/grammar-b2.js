@@ -211,5 +211,90 @@ const GRAMMAR_B2 = [
       { question: 'Sie muss den Zug verpasst ___.', answer: 'haben' },
       { question: 'Er könnte schon nach Hause gegangen ___.', answer: 'sein' }
     ]
+  },
+  {
+    id: 'b2-nominalstil',
+    level: 'B2',
+    title: 'Именной стиль: предлог вместо придаточного',
+    rule: `
+      <p>В официальных и научных текстах придаточное предложение часто заменяют существительным с предлогом. Смысл тот же, но текст становится короче и формальнее.</p>
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>глагольный стиль</th><th>именной стиль</th></tr>
+          <tr><td><b>weil</b> es regnet</td><td><b>wegen</b> des Regens</td></tr>
+          <tr><td><b>obwohl</b> es regnet</td><td><b>trotz</b> des Regens</td></tr>
+          <tr><td><b>während</b> wir essen</td><td><b>während</b> des Essens</td></tr>
+          <tr><td><b>nachdem</b> er angekommen war</td><td><b>nach</b> seiner Ankunft</td></tr>
+          <tr><td><b>bevor</b> er abreist</td><td><b>vor</b> seiner Abreise</td></tr>
+          <tr><td><b>wenn</b> es regnet</td><td><b>bei</b> Regen</td></tr>
+          <tr><td><b>um</b> die Lage <b>zu</b> verbessern</td><td><b>zur</b> Verbesserung der Lage</td></tr>
+        </table>
+      </div>
+      <p>wegen, trotz и während требуют Genitiv; nach, vor, bei и zu — Dativ.</p>
+    `,
+    exercises: [
+      { question: 'Weil es stark schneite, fiel der Unterricht aus. = ___ des starken Schnees fiel der Unterricht aus.', answer: 'Wegen' },
+      { question: 'Obwohl er krank war, kam er zur Arbeit. = ___ seiner Krankheit kam er zur Arbeit.', answer: 'Trotz' },
+      { question: 'Nachdem sie angekommen war, rief sie an. = ___ ihrer Ankunft rief sie an.', options: ['Nach', 'Vor', 'Bei'] },
+      { question: 'Bevor wir abreisen, packen wir. = ___ der Abreise packen wir.', options: ['Vor', 'Nach', 'Während'] },
+      { question: 'Wenn es regnet, bleiben wir zu Hause. = ___ Regen bleiben wir zu Hause.', options: ['Bei', 'Wegen', 'Trotz'] },
+      { question: 'Während wir aßen, klingelte das Telefon. = Während des ___ klingelte das Telefon.', answer: 'Essens' }
+    ]
+  },
+  {
+    id: 'b2-genitivpraepositionen',
+    level: 'B2',
+    title: 'Предлоги с Genitiv в официальной речи',
+    rule: `
+      <p>В письменной и деловой речи часто встречаются предлоги, требующие Genitiv.</p>
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>предлог</th><th>значение</th><th>пример</th></tr>
+          <tr><td>aufgrund</td><td>на основании, из-за</td><td>aufgrund des Wetters</td></tr>
+          <tr><td>infolge</td><td>вследствие</td><td>infolge eines Unfalls</td></tr>
+          <tr><td>anlässlich</td><td>по случаю</td><td>anlässlich seines Geburtstags</td></tr>
+          <tr><td>mithilfe</td><td>с помощью</td><td>mithilfe eines Computers</td></tr>
+          <tr><td>innerhalb / außerhalb</td><td>в пределах / за пределами</td><td>innerhalb einer Woche</td></tr>
+          <tr><td>anstelle</td><td>вместо</td><td>anstelle des Chefs</td></tr>
+          <tr><td>angesichts</td><td>ввиду</td><td>angesichts der Lage</td></tr>
+        </table>
+      </div>
+      <p>В Genitiv: мужской и средний род — <b>des / eines</b> + -(e)s у существительного, женский род и множественное число — <b>der / einer</b>.</p>
+    `,
+    exercises: [
+      { question: '___ des schlechten Wetters wurde das Spiel abgesagt.', options: ['Aufgrund', 'Anlässlich', 'Mithilfe'] },
+      { question: '___ seines Geburtstags gab es ein großes Fest.', options: ['Anlässlich', 'Infolge', 'Innerhalb'] },
+      { question: 'Mithilfe ___ Computers geht es schneller. (ein)', answer: 'eines' },
+      { question: 'Innerhalb ___ Woche bekommen Sie eine Antwort. (eine)', answer: 'einer' },
+      { question: '___ der hohen Kosten wurde das Projekt gestoppt.', options: ['Angesichts', 'Mithilfe', 'Anstelle'] },
+      { question: 'Anstelle ___ Chefs kam seine Assistentin. (der)', answer: 'des' }
+    ]
+  },
+  {
+    id: 'b2-modalpartikeln',
+    level: 'B2',
+    title: 'Модальные частицы: doch, ja, mal, denn, wohl, eben',
+    rule: `
+      <p>Модальные частицы почти не переводятся, но делают речь живой: они передают отношение говорящего. Стоят обычно после глагола.</p>
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>частица</th><th>что добавляет</th><th>пример</th></tr>
+          <tr><td><b>mal</b></td><td>смягчает просьбу</td><td>Komm mal her!</td></tr>
+          <tr><td><b>doch</b></td><td>приглашение, уговаривание</td><td>Setzen Sie sich doch!</td></tr>
+          <tr><td><b>ja</b></td><td>удивление или «как известно»</td><td>Das ist ja unglaublich!</td></tr>
+          <tr><td><b>denn</b></td><td>интерес в вопросе</td><td>Wie heißt du denn?</td></tr>
+          <tr><td><b>wohl</b></td><td>предположение</td><td>Er wird wohl krank sein.</td></tr>
+          <tr><td><b>eben / halt</b></td><td>смирение: «ничего не поделаешь»</td><td>Das ist eben so.</td></tr>
+        </table>
+      </div>
+    `,
+    exercises: [
+      { question: 'Komm ___ her! (смягчение просьбы)', options: ['mal', 'wohl', 'denn'] },
+      { question: 'Das ist ___ unglaublich! (удивление)', options: ['ja', 'mal', 'denn'] },
+      { question: 'Wie heißt du ___? (интерес в вопросе)', options: ['denn', 'ja', 'halt'] },
+      { question: 'Er wird ___ krank sein. (предположение)', options: ['wohl', 'mal', 'doch'] },
+      { question: 'Das ist ___ so, da kann man nichts machen. (смирение)', options: ['eben', 'denn', 'mal'] },
+      { question: 'Setzen Sie sich ___! (приглашение)', options: ['doch', 'wohl', 'denn'] }
+    ]
   }
 ];

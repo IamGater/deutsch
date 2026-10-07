@@ -624,7 +624,7 @@ eine Entscheidung treffen|принимать решение|Wir müssen bald ein
 zur Verfügung stehen|быть в распоряжении|Ich stehe Ihnen gern zur Verfügung.
 in Anspruch nehmen|пользоваться, занимать|Darf ich Ihre Hilfe in Anspruch nehmen?
 Rücksicht nehmen|считаться с кем-то|Bitte nehmen Sie Rücksicht auf die Nachbarn.
-Kritik üben|критиковать|Die Opposition übt Kritik an dem Plan.
+Kritik üben|высказывать критику|Die Opposition übt Kritik an dem Plan.
 in Kauf nehmen|мириться с чем-то|Dafür nehme ich lange Wege in Kauf.
 zum Ausdruck bringen|выражать|Er brachte seine Dankbarkeit zum Ausdruck.
 Bescheid geben|давать знать|Gib mir bitte Bescheid, wenn du ankommst.
@@ -650,4 +650,826 @@ Wert legen|придавать значение|Ich lege großen Wert auf Pünktl
 sich Mühe geben|стараться|Er gibt sich wirklich Mühe.
 im Stich lassen|бросать в беде|Du hast mich im Stich gelassen.
 auf der Hand liegen|быть очевидным|Die Lösung liegt auf der Hand.
+
+# Работа и предприятие
+die Dienstleistung|услуга|Die Firma bietet Dienstleistungen an.
+der Arbeitsmarkt|рынок труда|Der Arbeitsmarkt ist angespannt.
+die Arbeitsbedingungen|условия труда|Die Arbeitsbedingungen sind gut.
+die Belegschaft|персонал, коллектив|Die Belegschaft wurde informiert.
+der Vorgesetzte|начальник, руководитель|Mein Vorgesetzter ist im Urlaub.
+die Führungskraft|руководящий работник|Führungskräfte brauchen Erfahrung.
+die Hierarchie|иерархия|Die Hierarchie ist flach.
+die Zuständigkeit|компетенция, сфера ответственности|Das liegt nicht in meiner Zuständigkeit.
+die Ausschreibung|конкурс, тендер|Wir nehmen an der Ausschreibung teil.
+der Kostenvoranschlag|смета|Ich brauche einen Kostenvoranschlag.
+die Buchhaltung|бухгалтерия|Die Rechnung geht an die Buchhaltung.
+die Lohnabrechnung|расчётный лист|Die Lohnabrechnung kommt am Monatsende.
+die Sozialabgaben|социальные отчисления|Die Sozialabgaben sind hoch.
+der Arbeitsvertrag|трудовой договор|Der Arbeitsvertrag ist unterschrieben.
+befristet|срочный, ограниченный сроком|Der Vertrag ist auf ein Jahr befristet.
+unbefristet|бессрочный|Sie hat eine unbefristete Stelle.
+die Kündigungsfrist|срок уведомления об увольнении|Die Kündigungsfrist beträgt drei Monate.
+die Abmahnung|официальное предупреждение|Er hat eine Abmahnung bekommen.
+der Mindestlohn|минимальная зарплата|Der Mindestlohn wurde erhöht.
+die Schwarzarbeit|нелегальная работа|Schwarzarbeit ist strafbar.
+der Nebenjob|подработка|Sie hat einen Nebenjob im Café.
+die Selbstständigkeit|самостоятельность; работа на себя|Die Selbstständigkeit hat Vor- und Nachteile.
+das Gewerbe|промысел, бизнес|Er hat ein Gewerbe angemeldet.
+die Gründung|основание, учреждение|Die Gründung der Firma war 1990.
+der Gründer|основатель|Der Gründer leitet die Firma noch selbst.
+das Geschäftsmodell|бизнес-модель|Das Geschäftsmodell ist erfolgreich.
+die Strategie|стратегия|Wir brauchen eine neue Strategie.
+die Umstrukturierung|реструктуризация|Die Umstrukturierung kostet Stellen.
+der Stellenabbau|сокращение рабочих мест|Der Konzern plant einen Stellenabbau.
+der Mehrwert|добавленная ценность|Das Produkt bietet einen echten Mehrwert.
+der Meilenstein|веха, этап|Das ist ein wichtiger Meilenstein.
+das Mitarbeitergespräch|беседа с сотрудником|Das Mitarbeitergespräch findet jährlich statt.
+die Einarbeitung|введение в должность|Die Einarbeitung dauert vier Wochen.
+einarbeiten|вводить в курс дела|Ich arbeite die neue Kollegin ein.
+delegieren|делегировать|Ein guter Chef kann delegieren.
+koordinieren|координировать|Sie koordiniert das Projekt.
+optimieren|оптимизировать|Wir optimieren die Abläufe.
+priorisieren|расставлять приоритеты|Wir müssen die Aufgaben priorisieren.
+die Auslastung|загрузка|Die Auslastung liegt bei 90 Prozent.
+der Engpass|узкое место, нехватка|Es gibt einen Engpass bei der Lieferung.
+die Kapazität|мощность, вместимость|Unsere Kapazität ist begrenzt.
+der Standort|местоположение (предприятия)|Der Standort wird geschlossen.
+die Logistik|логистика|Die Logistik funktioniert reibungslos.
+das Lager|склад|Die Ware ist auf Lager.
+der Bestand|запас, наличие|Der Bestand wird geprüft.
+der Versand|отправка, доставка|Der Versand ist kostenlos.
+der Auftraggeber|заказчик|Der Auftraggeber ist zufrieden.
+der Auftragnehmer|исполнитель заказа|Der Auftragnehmer liefert pünktlich.
+die Zielvereinbarung|соглашение о целях|Die Zielvereinbarung gilt für ein Jahr.
+die Fluktuation|текучесть кадров|Die Fluktuation in der Branche ist hoch.
+die Betriebsversammlung|собрание коллектива|Morgen ist Betriebsversammlung.
+die Probearbeit|пробный рабочий день|Ich habe morgen einen Tag Probearbeit.
+das Arbeitszeugnis|характеристика с места работы|Ich brauche ein Arbeitszeugnis.
+die Gleitzeit|гибкий график|Bei uns gibt es Gleitzeit.
+das Homeoffice|удалённая работа|Freitags arbeite ich im Homeoffice.
+
+# Учёба и исследования
+die Geisteswissenschaften|гуманитарные науки|Sie studiert Geisteswissenschaften.
+die Naturwissenschaften|естественные науки|Er interessiert sich für Naturwissenschaften.
+die Sozialwissenschaften|общественные науки|Die Sozialwissenschaften untersuchen die Gesellschaft.
+der Studiengang|учебная программа|Der Studiengang dauert sechs Semester.
+das Hauptfach|основная специальность|Mein Hauptfach ist Geschichte.
+das Nebenfach|дополнительная специальность|Im Nebenfach studiere ich Politik.
+sich einschreiben|зачисляться|Ich habe mich an der Uni eingeschrieben.
+die Studiengebühren|плата за обучение|Die Studiengebühren sind hoch.
+das Seminar|семинар|Das Seminar findet dienstags statt.
+die Hausarbeit|письменная работа (в вузе)|Ich schreibe eine Hausarbeit.
+die Abschlussarbeit|дипломная работа|Die Abschlussarbeit ist fast fertig.
+die Promotion|защита докторской|Nach der Promotion ging sie ins Ausland.
+promovieren|получать докторскую степень|Er promoviert in Chemie.
+der Lehrstuhl|кафедра|Sie hat einen Lehrstuhl für Physik.
+der Dozent|преподаватель вуза|Der Dozent erklärt das Thema.
+die Fakultät|факультет|Die Fakultät hat 3000 Studenten.
+die Fachliteratur|специальная литература|Ich lese viel Fachliteratur.
+die Quellenangabe|указание источника|Die Quellenangabe fehlt.
+das Plagiat|плагиат|Das Plagiat wurde entdeckt.
+die Fußnote|сноска|Die Erklärung steht in der Fußnote.
+das Literaturverzeichnis|список литературы|Das Literaturverzeichnis ist am Ende.
+die Gliederung|структура, план|Die Gliederung ist logisch.
+die Einleitung|введение|Die Einleitung ist zu lang.
+der Hauptteil|основная часть|Im Hauptteil werden die Ergebnisse vorgestellt.
+die Fragestellung|постановка вопроса|Die Fragestellung ist interessant.
+die Zielsetzung|постановка цели|Die Zielsetzung ist klar.
+die Vorgehensweise|образ действий, метод|Die Vorgehensweise wird erklärt.
+repräsentativ|репрезентативный|Die Umfrage ist repräsentativ.
+empirisch|эмпирический|Das ist eine empirische Studie.
+theoretisch|теоретический|Theoretisch ist das möglich.
+die Kausalität|причинно-следственная связь|Die Kausalität ist nicht bewiesen.
+die Korrelation|корреляция|Es gibt eine Korrelation zwischen beiden Werten.
+die Variable|переменная|Wir untersuchen drei Variablen.
+die Abweichung|отклонение|Die Abweichung ist gering.
+die Messung|измерение|Die Messung wurde wiederholt.
+die Genauigkeit|точность|Die Genauigkeit ist entscheidend.
+die Prognose|прогноз|Die Prognose ist optimistisch.
+die Erwachsenenbildung|образование взрослых|Sie arbeitet in der Erwachsenenbildung.
+die Volkshochschule|народный университет|Ich lerne Spanisch an der Volkshochschule.
+das Fernstudium|заочное обучение|Er macht ein Fernstudium.
+die Allgemeinbildung|общее образование, эрудиция|Sie hat eine gute Allgemeinbildung.
+die Begabung|одарённость|Er hat eine Begabung für Sprachen.
+die Lernmethode|метод обучения|Welche Lernmethode passt zu dir?
+der Leistungsnachweis|подтверждение успеваемости|Ich brauche noch einen Leistungsnachweis.
+das Auslandssemester|семестр за границей|Ich mache ein Auslandssemester in Wien.
+
+# Цифровые технологии
+die Hardware|аппаратное обеспечение|Die Hardware ist veraltet.
+der Prozessor|процессор|Der Prozessor ist sehr schnell.
+der Arbeitsspeicher|оперативная память|Der Arbeitsspeicher reicht nicht.
+die Festplatte|жёсткий диск|Die Festplatte ist voll.
+das Betriebssystem|операционная система|Welches Betriebssystem nutzt du?
+die Benutzeroberfläche|пользовательский интерфейс|Die Benutzeroberfläche ist einfach.
+die Datenbank|база данных|Die Daten liegen in einer Datenbank.
+der Server|сервер|Der Server ist ausgefallen.
+die Datensicherung|резервное копирование|Die Datensicherung läuft nachts.
+der Quellcode|исходный код|Der Quellcode ist öffentlich.
+programmieren|программировать|Sie programmiert eine App.
+die Programmiersprache|язык программирования|Welche Programmiersprache lernst du?
+beheben|устранять|Der Fehler wurde behoben.
+die Fehlermeldung|сообщение об ошибке|Es erscheint eine Fehlermeldung.
+abstürzen|зависать, падать|Der Computer ist abgestürzt.
+die Sicherheitslücke|уязвимость|Die Sicherheitslücke wurde geschlossen.
+die Schadsoftware|вредоносная программа|Der Rechner ist mit Schadsoftware infiziert.
+der Zugriff|доступ|Ich habe keinen Zugriff auf die Datei.
+zugreifen|получать доступ|Wer kann auf die Daten zugreifen?
+die Berechtigung|право, разрешение|Dafür fehlt Ihnen die Berechtigung.
+das Benutzerkonto|учётная запись|Ihr Benutzerkonto wurde gesperrt.
+sperren|блокировать|Die Karte wurde gesperrt.
+die Bandbreite|пропускная способность; спектр|Die Bandbreite reicht nicht für Videos.
+der Mobilfunk|мобильная связь|Der Mobilfunk ist hier schlecht.
+das Endgerät|конечное устройство|Die App läuft auf allen Endgeräten.
+der Sensor|датчик|Der Sensor misst die Temperatur.
+die Steuerung|управление|Die Steuerung erfolgt per App.
+steuern|управлять|Die Heizung lässt sich per Handy steuern.
+die Vernetzung|объединение в сеть|Die Vernetzung der Geräte nimmt zu.
+die Drohne|дрон|Die Drohne macht Fotos aus der Luft.
+die Elektromobilität|электромобильность|Die Elektromobilität wird gefördert.
+die Ladestation|зарядная станция|Es gibt zu wenige Ladestationen.
+der Stromverbrauch|потребление электроэнергии|Der Stromverbrauch ist gesunken.
+der Wirkungsgrad|КПД|Der Wirkungsgrad der Anlage ist hoch.
+die Suchmaschine|поисковая система|Ich benutze eine Suchmaschine.
+der Bildschirmschoner|экранная заставка|Der Bildschirmschoner startet nach fünf Minuten.
+die Tastenkombination|сочетание клавиш|Kennst du die Tastenkombination zum Kopieren?
+der Datenträger|носитель данных|Der Datenträger ist beschädigt.
+die Auflösung|разрешение (экрана); роспуск|Die Auflösung des Bildschirms ist hoch.
+das Update|обновление|Das Update dauert zehn Minuten.
+die Cloud|облако (хранилище)|Die Fotos liegen in der Cloud.
+virtuell|виртуальный|Das Treffen findet virtuell statt.
+digital|цифровой|Die Akten sind digital.
+automatisch|автоматический|Die Tür öffnet sich automatisch.
+
+# Финансы и права потребителя
+das Girokonto|расчётный счёт|Mein Gehalt kommt aufs Girokonto.
+das Sparkonto|сберегательный счёт|Ich habe Geld auf dem Sparkonto.
+der Dauerauftrag|постоянное платёжное поручение|Die Miete zahle ich per Dauerauftrag.
+die Lastschrift|прямое списание|Der Betrag wird per Lastschrift eingezogen.
+abbuchen|списывать (со счёта)|Der Betrag wurde abgebucht.
+der Kontoauszug|выписка со счёта|Ich prüfe den Kontoauszug.
+der Kontostand|остаток на счёте|Der Kontostand ist niedrig.
+überziehen|превышать (лимит)|Ich habe mein Konto überzogen.
+die Rate|взнос, часть платежа|Ich zahle in zwölf Raten.
+die Hypothek|ипотека|Wir haben eine Hypothek aufgenommen.
+das Darlehen|ссуда|Das Darlehen läuft zehn Jahre.
+der Zinssatz|процентная ставка|Der Zinssatz ist gestiegen.
+die Tilgung|погашение|Die Tilgung dauert zwanzig Jahre.
+bürgen|поручаться|Meine Eltern bürgen für mich.
+die Geldanlage|вложение денег|Immobilien sind eine sichere Geldanlage.
+anlegen|вкладывать; создавать|Er legt sein Geld in Aktien an.
+das Wertpapier|ценная бумага|Er handelt mit Wertpapieren.
+die Steuererklärung|налоговая декларация|Ich muss die Steuererklärung machen.
+das Finanzamt|налоговая инспекция|Das Finanzamt hat geschrieben.
+absetzen|вычитать (из налогов); снимать|Das kann man von der Steuer absetzen.
+die Mehrwertsteuer|НДС|Die Mehrwertsteuer beträgt 19 Prozent.
+brutto|брутто, до вычетов|Ich verdiene 3000 Euro brutto.
+netto|нетто, после вычетов|Netto bleibt weniger übrig.
+der Verbraucherschutz|защита прав потребителей|Der Verbraucherschutz ist wichtig.
+die Gewährleistung|гарантия (по закону)|Die Gewährleistung gilt zwei Jahre.
+das Widerrufsrecht|право на отказ от договора|Sie haben ein Widerrufsrecht von 14 Tagen.
+widerrufen|отзывать, отменять|Ich möchte den Vertrag widerrufen.
+die Rückerstattung|возврат денег|Die Rückerstattung dauert eine Woche.
+erstatten|возмещать|Die Kosten werden erstattet.
+der Kaufvertrag|договор купли-продажи|Der Kaufvertrag ist gültig.
+das Kleingedruckte|мелкий шрифт (в договоре)|Lies immer das Kleingedruckte.
+die Haftpflichtversicherung|страхование ответственности|Eine Haftpflichtversicherung ist sinnvoll.
+die Selbstbeteiligung|франшиза (в страховке)|Die Selbstbeteiligung beträgt 300 Euro.
+der Versicherungsfall|страховой случай|Im Versicherungsfall rufen Sie uns an.
+die Schuldenfalle|долговая яма|Viele geraten in die Schuldenfalle.
+zahlungsfähig|платёжеспособный|Der Kunde ist nicht mehr zahlungsfähig.
+der Gläubiger|кредитор|Die Gläubiger fordern ihr Geld.
+der Schuldner|должник|Der Schuldner zahlt in Raten.
+die Preissteigerung|рост цен|Die Preissteigerung ist deutlich.
+die Kaufkraft|покупательная способность|Die Kaufkraft sinkt.
+das Preis-Leistungs-Verhältnis|соотношение цены и качества|Das Preis-Leistungs-Verhältnis stimmt.
+erschwinglich|доступный по цене|Die Miete ist erschwinglich.
+die Mahngebühr|пеня за просрочку|Es fällt eine Mahngebühr an.
+fällig|подлежащий оплате|Die Rechnung ist am Freitag fällig.
+
+# Совместная жизнь и семья
+das Zusammenleben|совместная жизнь|Das Zusammenleben funktioniert gut.
+das Miteinander|взаимодействие, общность|Ein gutes Miteinander ist wichtig.
+die Zivilgesellschaft|гражданское общество|Die Zivilgesellschaft ist aktiv.
+das Engagement|вовлечённость, активность|Ihr Engagement ist beeindruckend.
+sich engagieren|активно участвовать|Er engagiert sich für Flüchtlinge.
+die Bürgerinitiative|гражданская инициатива|Die Bürgerinitiative sammelt Unterschriften.
+die Petition|петиция|Die Petition hat 10 000 Unterschriften.
+das Mitspracherecht|право голоса при принятии решений|Die Mieter fordern ein Mitspracherecht.
+die Teilhabe|участие (в жизни общества)|Bildung ermöglicht Teilhabe.
+die Inklusion|инклюзия|Inklusion beginnt in der Schule.
+barrierefrei|безбарьерный|Der Bahnhof ist barrierefrei.
+die Gleichstellung|уравнивание в правах|Die Gleichstellung ist gesetzlich verankert.
+die Kinderbetreuung|присмотр за детьми|Die Kinderbetreuung ist teuer.
+die Kita|детский сад (полного дня)|Unser Sohn geht in die Kita.
+die Ganztagsschule|школа полного дня|Die Kinder besuchen eine Ganztagsschule.
+das Elterngeld|пособие по уходу за ребёнком|Sie bekommt ein Jahr Elterngeld.
+das Kindergeld|детское пособие|Das Kindergeld wurde erhöht.
+die Patchworkfamilie|смешанная семья|Sie leben in einer Patchworkfamilie.
+der Lebensgefährte|гражданский муж, спутник жизни|Sie kommt mit ihrem Lebensgefährten.
+das Sorgerecht|право опеки|Beide Eltern haben das Sorgerecht.
+der Unterhalt|алименты, содержание|Er zahlt Unterhalt für zwei Kinder.
+adoptieren|усыновлять|Sie haben ein Kind adoptiert.
+die Pflegefamilie|приёмная семья|Das Kind lebt in einer Pflegefamilie.
+das Seniorenheim|дом престарелых|Meine Oma lebt im Seniorenheim.
+die Pflegekraft|сиделка, медработник по уходу|Es fehlen Pflegekräfte.
+die Vereinsamung|одиночество, изоляция|Vereinsamung im Alter ist ein Problem.
+der Generationenkonflikt|конфликт поколений|Der Generationenkonflikt ist nichts Neues.
+die Randgruppe|маргинальная группа|Randgruppen brauchen Unterstützung.
+der Außenseiter|аутсайдер|In der Schule war er ein Außenseiter.
+die Fremdenfeindlichkeit|ксенофобия|Fremdenfeindlichkeit darf keinen Platz haben.
+der Rassismus|расизм|Sie kämpft gegen Rassismus.
+die Toleranz|терпимость|Toleranz ist eine wichtige Tugend.
+die Zivilcourage|гражданское мужество|Sie hat Zivilcourage gezeigt.
+das Gemeinwohl|общее благо|Das dient dem Gemeinwohl.
+die Wertvorstellung|представление о ценностях|Unsere Wertvorstellungen sind verschieden.
+der Wertewandel|смена ценностей|Der Wertewandel betrifft alle Generationen.
+die Leistungsgesellschaft|общество достижений|Wir leben in einer Leistungsgesellschaft.
+der Leistungsdruck|давление, требование результата|Der Leistungsdruck in der Schule ist hoch.
+der Wohlfahrtsstaat|социальное государство|Der Wohlfahrtsstaat steht unter Druck.
+die Landflucht|отток из села|Die Landflucht nimmt zu.
+die Tugend|добродетель|Geduld ist eine Tugend.
+die Sitten und Gebräuche|нравы и обычаи|Jedes Land hat seine Sitten und Gebräuche.
+die Herkunft|происхождение|Seine Herkunft spielt keine Rolle.
+die Zugehörigkeit|принадлежность|Das Gefühl der Zugehörigkeit ist wichtig.
+die Identität|идентичность|Sprache ist Teil der Identität.
+die Erwerbstätigkeit|трудовая занятость|Die Erwerbstätigkeit von Frauen steigt.
+der Ruhestand|выход на пенсию, отставка|Er geht bald in den Ruhestand.
+der Lebensabend|старость|Sie genießt ihren Lebensabend.
+erben|наследовать|Sie hat ein Haus geerbt.
+das Testament|завещание|Er hat ein Testament gemacht.
+die Beerdigung|похороны|Die Beerdigung ist am Freitag.
+
+# Политика и государство
+die Bundesregierung|федеральное правительство|Die Bundesregierung berät über das Gesetz.
+der Bundeskanzler|федеральный канцлер|Der Bundeskanzler hält eine Rede.
+das Ministerium|министерство|Das Ministerium prüft den Fall.
+der Minister|министр|Der Minister ist zurückgetreten.
+das Bundesland|федеральная земля|Bayern ist das größte Bundesland.
+die Gemeinde|община, муниципалитет|Die Gemeinde baut eine neue Schule.
+der Stadtrat|городской совет|Der Stadtrat hat zugestimmt.
+der Föderalismus|федерализм|Der Föderalismus prägt Deutschland.
+die Gewaltenteilung|разделение властей|Die Gewaltenteilung schützt die Demokratie.
+der Rechtsstaat|правовое государство|Deutschland ist ein Rechtsstaat.
+die Bundeswehr|бундесвер|Die Bundeswehr sucht Personal.
+die Volksabstimmung|референдум|Die Volksabstimmung findet im Mai statt.
+das Wahlrecht|избирательное право|Frauen haben seit 1918 das Wahlrecht.
+die Wahlbeteiligung|явка на выборах|Die Wahlbeteiligung war hoch.
+der Wähler|избиратель|Die Wähler haben entschieden.
+die Fraktion|фракция|Die Fraktion stimmt geschlossen ab.
+der Ausschuss|комитет, комиссия|Der Ausschuss tagt nicht öffentlich.
+die Legislaturperiode|срок полномочий парламента|Die Legislaturperiode dauert vier Jahre.
+der Staatshaushalt|государственный бюджет|Der Staatshaushalt wurde beschlossen.
+die Staatsverschuldung|государственный долг|Die Staatsverschuldung steigt.
+das Defizit|дефицит|Das Defizit ist gewachsen.
+die Sparmaßnahme|мера экономии|Die Sparmaßnahmen treffen alle.
+die Innenpolitik|внутренняя политика|Die Innenpolitik bestimmt den Wahlkampf.
+die Sozialpolitik|социальная политика|Die Sozialpolitik ist umstritten.
+die Lobby|лобби|Die Lobby ist mächtig.
+die Transparenz|прозрачность|Die Bürger fordern mehr Transparenz.
+der Populismus|популизм|Der Populismus nimmt zu.
+der Extremismus|экстремизм|Der Staat bekämpft Extremismus.
+die Diplomatie|дипломатия|Die Diplomatie hat versagt.
+der Botschafter|посол|Der Botschafter wurde einbestellt.
+die Botschaft|посольство; послание|Ich muss zur Botschaft.
+das Konsulat|консульство|Das Visum gibt es im Konsulat.
+das Gipfeltreffen|саммит|Das Gipfeltreffen findet in Brüssel statt.
+die Vereinten Nationen|Организация Объединённых Наций|Die Vereinten Nationen wurden 1945 gegründet.
+die Europäische Union|Европейский союз|Die Europäische Union hat 27 Mitglieder.
+der Mitgliedstaat|государство-член|Alle Mitgliedstaaten müssen zustimmen.
+die Souveränität|суверенитет|Die Souveränität des Staates ist unantastbar.
+die Grundrechte|основные права|Die Grundrechte stehen in der Verfassung.
+die Meinungsbildung|формирование мнения|Medien beeinflussen die Meinungsbildung.
+der Machtwechsel|смена власти|Nach der Wahl kam es zum Machtwechsel.
+die Amtszeit|срок полномочий|Seine Amtszeit endet nächstes Jahr.
+regieren|править|Die Partei regiert seit zehn Jahren.
+die Kundgebung|митинг|Tausende kamen zur Kundgebung.
+die Volksvertretung|народное представительство|Das Parlament ist die Volksvertretung.
+der Staatsbürger|гражданин государства|Jeder Staatsbürger hat Rechte und Pflichten.
+die Einbürgerung|получение гражданства|Die Einbürgerung dauert mehrere Jahre.
+
+# Чувства: оттенки
+die Zuneigung|симпатия, привязанность|Er zeigt seine Zuneigung offen.
+die Abneigung|неприязнь|Sie hat eine Abneigung gegen Lärm.
+die Begeisterung|восторг|Die Begeisterung war groß.
+die Leidenschaft|страсть|Musik ist seine Leidenschaft.
+leidenschaftlich|страстный|Sie ist eine leidenschaftliche Köchin.
+die Verzweiflung|отчаяние|Aus Verzweiflung rief sie die Polizei.
+die Erleichterung|облегчение|Zu meiner Erleichterung ging alles gut.
+verlegen|смущённый|Er lächelte verlegen.
+die Scham|стыд|Vor Scham wurde sie rot.
+die Reue|раскаяние|Er zeigte keine Reue.
+die Schadenfreude|злорадство|Schadenfreude ist nicht nett.
+das Heimweh|тоска по дому|Im Ausland hatte ich Heimweh.
+das Fernweh|тяга к путешествиям|Im Winter bekomme ich Fernweh.
+die Langeweile|скука|Aus Langeweile sah er fern.
+die Neugier|любопытство|Aus Neugier öffnete sie den Brief.
+die Bewunderung|восхищение|Ich habe große Bewunderung für sie.
+die Verachtung|презрение|Er sah ihn mit Verachtung an.
+verachten|презирать|Ich verachte Lügner.
+der Hass|ненависть|Hass löst keine Probleme.
+hassen|ненавидеть|Ich hasse es zu warten.
+die Rache|месть|Er sann auf Rache.
+die Empörung|возмущение|Die Empörung war groß.
+empört|возмущённый|Die Bürger sind empört.
+gereizt|раздражённый|Er reagierte gereizt.
+die Anspannung|напряжение|Die Anspannung vor der Prüfung war groß.
+angespannt|напряжённый|Die Lage ist angespannt.
+die Unsicherheit|неуверенность|Die Unsicherheit ist groß.
+verunsichert|сбитый с толку, неуверенный|Viele Kunden sind verunsichert.
+das Misstrauen|недоверие|Das Misstrauen wächst.
+misstrauisch|недоверчивый|Sie ist misstrauisch gegenüber Fremden.
+kränken|обижать, задевать|Deine Worte haben mich gekränkt.
+die Versöhnung|примирение|Nach dem Streit kam die Versöhnung.
+die Wertschätzung|признание, высокая оценка|Wertschätzung motiviert Mitarbeiter.
+die Anerkennung|признание|Sie verdient Anerkennung.
+die Geborgenheit|чувство защищённости|Kinder brauchen Geborgenheit.
+die Zärtlichkeit|нежность|Er sprach mit großer Zärtlichkeit.
+die Fürsorge|забота, попечение|Die Fürsorge der Eltern ist wichtig.
+fürsorglich|заботливый|Sie ist eine fürsorgliche Mutter.
+das Mitgefühl|сочувствие|Mein Mitgefühl gilt der Familie.
+die Gleichgültigkeit|равнодушие|Seine Gleichgültigkeit ärgert mich.
+die Ehrfurcht|благоговение|Wir standen voller Ehrfurcht vor dem Dom.
+die Dankbarkeit|благодарность|Ich empfinde tiefe Dankbarkeit.
+die Zufriedenheit|удовлетворённость|Die Zufriedenheit der Kunden ist hoch.
+die Unzufriedenheit|недовольство|Die Unzufriedenheit wächst.
+die Rührung|умиление, растроганность|Vor Rührung konnte sie nicht sprechen.
+gerührt|растроганный|Ich bin sehr gerührt.
+die Vorfreude|радостное предвкушение|Die Vorfreude auf den Urlaub ist groß.
+der Kummer|горе, огорчение|Sie hat großen Kummer.
+die Hemmschwelle|психологический барьер|Die Hemmschwelle, um Hilfe zu bitten, ist hoch.
+
+# Природа и география
+der Kontinent|континент|Afrika ist ein riesiger Kontinent.
+der Ozean|океан|Der Ozean ist tief.
+die Halbinsel|полуостров|Italien ist eine Halbinsel.
+die Bucht|бухта|Das Boot liegt in der Bucht.
+die Mündung|устье|Die Stadt liegt an der Mündung des Flusses.
+der Bach|ручей|Der Bach fließt durch das Dorf.
+der Teich|пруд|Im Teich schwimmen Fische.
+der Sumpf|болото|Im Sumpf leben viele Vögel.
+die Steppe|степь|Die Steppe ist endlos.
+der Vulkan|вулкан|Der Vulkan ist noch aktiv.
+der Ausbruch|извержение; вспышка|Der Ausbruch kam überraschend.
+die Lawine|лавина|Eine Lawine hat die Straße verschüttet.
+der Erdrutsch|оползень|Nach dem Regen gab es einen Erdrutsch.
+der Orkan|ураган|Der Orkan richtete große Schäden an.
+der Niederschlag|осадки|Im Herbst fällt viel Niederschlag.
+die Luftfeuchtigkeit|влажность воздуха|Die Luftfeuchtigkeit ist hoch.
+die Hitzewelle|волна жары|Die Hitzewelle dauert an.
+der Frost|мороз|In der Nacht gibt es Frost.
+das Glatteis|гололёд|Vorsicht, Glatteis!
+der Hagel|град|Der Hagel hat die Ernte zerstört.
+der Tau|роса|Am Morgen liegt Tau auf dem Gras.
+die Vegetation|растительность|Die Vegetation ist üppig.
+das Säugetier|млекопитающее|Der Wal ist ein Säugetier.
+das Reptil|рептилия|Die Schlange ist ein Reptil.
+das Raubtier|хищник|Der Wolf ist ein Raubtier.
+die Beute|добыча|Der Löwe jagt seine Beute.
+das Nest|гнездо|Der Vogel baut ein Nest.
+das Revier|территория, участок|Der Hund verteidigt sein Revier.
+der Zugvogel|перелётная птица|Im Herbst ziehen die Zugvögel nach Süden.
+der Winterschlaf|зимняя спячка|Der Bär hält Winterschlaf.
+das Naturschutzgebiet|заповедник|Das Naturschutzgebiet darf man nicht betreten.
+der Nationalpark|национальный парк|Wir wandern im Nationalpark.
+die Wildnis|дикая местность|Sie leben in der Wildnis.
+der Wolf|волк|Der Wolf kehrt nach Deutschland zurück.
+der Fuchs|лиса|Der Fuchs ist schlau.
+der Hirsch|олень|Im Wald sahen wir einen Hirsch.
+das Reh|косуля|Ein Reh stand auf der Wiese.
+der Adler|орёл|Der Adler kreist über dem Tal.
+die Eule|сова|Die Eule jagt nachts.
+die Schlange|змея; очередь|Die Schlange ist giftig.
+der Frosch|лягушка|Der Frosch sitzt am Teich.
+der Schmetterling|бабочка|Ein Schmetterling sitzt auf der Blume.
+die Ameise|муравей|Ameisen sind sehr fleißig.
+die Spinne|паук|Ich habe Angst vor Spinnen.
+die Eiche|дуб|Die Eiche ist hundert Jahre alt.
+die Tanne|ель, пихта|Zu Weihnachten kaufen wir eine Tanne.
+die Birke|берёза|Vor dem Haus steht eine Birke.
+der Ast|сук, ветка|Der Ast ist abgebrochen.
+die Wurzel|корень|Die Wurzeln sind tief.
+der Stamm|ствол; племя|Der Stamm ist sehr dick.
+
+# Глаголы: управление и решения
+abbauen|сокращать, демонтировать|Die Firma baut Stellen ab.
+ablenken|отвлекать|Lenk mich bitte nicht ab.
+abschätzen|оценивать, прикидывать|Die Folgen lassen sich schwer abschätzen.
+anfechten|оспаривать|Er will das Urteil anfechten.
+anführen|приводить (довод); возглавлять|Sie führte mehrere Beispiele an.
+angehen|приступать; касаться|Wir müssen das Problem angehen.
+anknüpfen|продолжать, опираться на|Ich möchte an Ihre Worte anknüpfen.
+anordnen|распоряжаться; располагать|Der Chef ordnete Überstunden an.
+anregen|побуждать, предлагать|Ich möchte eine Diskussion anregen.
+ansprechen|заговаривать; затрагивать|Ich möchte ein Problem ansprechen.
+antreiben|подгонять, приводить в движение|Was treibt dich an?
+anweisen|давать указание|Er wies die Mitarbeiter an zu warten.
+aufarbeiten|прорабатывать, разбирать|Die Vergangenheit muss aufgearbeitet werden.
+aufdecken|раскрывать|Journalisten deckten den Skandal auf.
+auffassen|воспринимать, понимать|Wie soll ich das auffassen?
+aufgreifen|подхватывать (тему)|Ich greife Ihren Vorschlag auf.
+aufklären|разъяснять; раскрывать|Die Polizei klärte den Fall auf.
+auflisten|перечислять|Bitte listen Sie alle Kosten auf.
+auflösen|распускать, растворять|Das Parlament wurde aufgelöst.
+aufrechterhalten|поддерживать, сохранять|Wir wollen den Kontakt aufrechterhalten.
+aufteilen|разделять|Wir teilen die Arbeit auf.
+aufwerten|повышать ценность|Der Park wertet das Viertel auf.
+ausarbeiten|разрабатывать|Wir arbeiten einen Plan aus.
+ausbauen|расширять, развивать|Das Netz wird ausgebaut.
+ausblenden|игнорировать, скрывать|Diese Frage wird oft ausgeblendet.
+ausführen|выполнять; излагать|Der Auftrag wurde ausgeführt.
+ausgleichen|уравновешивать, компенсировать|Der Verlust wird ausgeglichen.
+aushandeln|выторговывать, согласовывать|Sie handelten einen Kompromiss aus.
+ausschöpfen|исчерпывать, использовать полностью|Wir haben alle Möglichkeiten ausgeschöpft.
+ausweichen|уклоняться|Er wich der Frage aus.
+ausweiten|расширять|Der Streik wird ausgeweitet.
+beabsichtigen|намереваться|Ich beabsichtige zu kündigen.
+bearbeiten|обрабатывать|Ihr Antrag wird bearbeitet.
+beaufsichtigen|надзирать, присматривать|Sie beaufsichtigt die Kinder.
+bedrohen|угрожать|Die Art ist vom Aussterben bedroht.
+befolgen|следовать, соблюдать|Bitte befolgen Sie die Anweisungen.
+befördern|перевозить; повышать в должности|Sie wurde zur Leiterin befördert.
+befragen|опрашивать|Wir haben 500 Personen befragt.
+befreien|освобождать|Er wurde von der Gebühr befreit.
+begehen|совершать (ошибку, преступление)|Er hat einen Fehler begangen.
+begünstigen|благоприятствовать|Das Wetter begünstigt die Ernte.
+behindern|препятствовать|Der Unfall behindert den Verkehr.
+beibehalten|сохранять|Wir behalten das System bei.
+bemängeln|критиковать, указывать на недостатки|Kunden bemängeln den Service.
+benennen|называть|Können Sie die Ursache benennen?
+bereichern|обогащать|Reisen bereichert das Leben.
+bereitstellen|предоставлять|Die Stadt stellt Räume bereit.
+beschleunigen|ускорять|Wir müssen das Verfahren beschleunigen.
+beschuldigen|обвинять|Er wird des Diebstahls beschuldigt.
+besteuern|облагать налогом|Hohe Einkommen werden stärker besteuert.
+sich beteiligen|участвовать|Alle beteiligen sich an den Kosten.
+betreiben|вести, эксплуатировать|Sie betreibt ein kleines Café.
+bevorstehen|предстоять|Große Veränderungen stehen bevor.
+bewilligen|одобрять, выделять|Der Antrag wurde bewilligt.
+bezeichnen|обозначать, называть|Er bezeichnet sich als Experten.
+billigen|одобрять|Das Parlament billigte den Plan.
+bündeln|объединять, концентрировать|Wir bündeln unsere Kräfte.
+dämpfen|приглушать, сдерживать|Die Nachricht dämpfte die Stimmung.
+darlegen|излагать|Bitte legen Sie Ihre Gründe dar.
+decken|покрывать|Die Versicherung deckt den Schaden.
+definieren|определять|Wie definieren Sie Erfolg?
+dokumentieren|документировать|Der Verlauf wird dokumentiert.
+dominieren|доминировать|Ein Thema dominiert die Debatte.
+durchschauen|видеть насквозь|Ich habe seinen Plan durchschaut.
+eindringen|проникать|Wasser dringt in den Keller ein.
+einfordern|требовать, взыскивать|Die Mitarbeiter fordern ihre Rechte ein.
+eingehen|вдаваться; идти на|Darauf möchte ich näher eingehen.
+eingestehen|признавать|Er gestand seinen Fehler ein.
+einhalten|соблюдать|Bitte halten Sie die Frist ein.
+einleiten|начинать, вводить|Die Polizei leitete eine Untersuchung ein.
+einordnen|классифицировать, относить|Wie ordnen Sie das Ergebnis ein?
+einsehen|осознавать; просматривать|Ich sehe meinen Fehler ein.
+einstufen|классифицировать, оценивать|Das Risiko wird als hoch eingestuft.
+eintreten|вступать; наступать|Er trat in die Partei ein.
+einwilligen|соглашаться|Die Eltern müssen einwilligen.
+entfalten|раскрывать, развивать|Hier kann sie ihr Talent entfalten.
+entgegenwirken|противодействовать|Wir müssen dem Trend entgegenwirken.
+entgehen|ускользать|Das ist mir entgangen.
+entkräften|опровергать, ослаблять|Er konnte den Vorwurf entkräften.
+entschädigen|возмещать ущерб|Die Opfer wurden entschädigt.
+entschärfen|смягчать, разряжать|Das Gespräch entschärfte den Konflikt.
+entwerfen|проектировать, набрасывать|Sie entwirft Möbel.
+entziehen|лишать, отзывать|Ihm wurde der Führerschein entzogen.
+erarbeiten|разрабатывать, вырабатывать|Wir erarbeiten ein Konzept.
+erbringen|приносить, оказывать|Die Firma erbringt Dienstleistungen.
+ergreifen|предпринимать; хватать|Sie ergriff die Gelegenheit.
+erheben|взимать; собирать (данные)|Die Stadt erhebt eine Gebühr.
+erlangen|достигать, приобретать|Er erlangte große Bekanntheit.
+erlassen|издавать (закон); освобождать|Die Regierung erließ ein Verbot.
+ermahnen|увещевать, призывать|Der Lehrer ermahnte die Schüler.
+ermutigen|ободрять|Sie ermutigte mich weiterzumachen.
+erschließen|осваивать, открывать|Die Firma erschließt neue Märkte.
+erschweren|затруднять|Der Regen erschwert die Arbeit.
+erstellen|составлять, создавать|Ich erstelle eine Liste.
+erwägen|обдумывать, рассматривать|Wir erwägen einen Umzug.
+erwerben|приобретать|Er erwarb ein Grundstück.
+festhalten|удерживать; фиксировать|Wir halten das Ergebnis schriftlich fest.
+fortsetzen|продолжать|Wir setzen das Gespräch morgen fort.
+freisetzen|высвобождать|Dabei wird Energie freigesetzt.
+geraten|попадать, оказываться|Die Firma geriet in Not.
+gewähren|предоставлять|Die Bank gewährt einen Kredit.
+gewichten|взвешивать, расставлять по значимости|Die Kriterien werden unterschiedlich gewichtet.
+hemmen|тормозить, сдерживать|Bürokratie hemmt das Wachstum.
+heranziehen|привлекать, использовать|Wir ziehen Experten heran.
+herausfordern|бросать вызов|Die Aufgabe fordert mich heraus.
+herbeiführen|приводить к, вызывать|Er führte eine Entscheidung herbei.
+hervorgehen|следовать, вытекать|Aus dem Bericht geht hervor, dass er recht hatte.
+hinauszögern|оттягивать|Sie zögern die Entscheidung hinaus.
+hinnehmen|мириться с|Das kann ich nicht hinnehmen.
+kennzeichnen|маркировать, характеризовать|Die Produkte sind gekennzeichnet.
+klarstellen|прояснять, уточнять|Ich möchte etwas klarstellen.
+kürzen|сокращать|Das Budget wurde gekürzt.
+lockern|ослаблять, смягчать|Die Regeln wurden gelockert.
+mildern|смягчать|Das Medikament mildert die Schmerzen.
+missachten|пренебрегать, нарушать|Er hat die Vorschrift missachtet.
+missbrauchen|злоупотреблять|Er missbrauchte ihr Vertrauen.
+mitwirken|содействовать, участвовать|Viele haben an dem Projekt mitgewirkt.
+nachgeben|уступать|Schließlich gab er nach.
+nachholen|навёрстывать|Ich hole den Termin nach.
+nachlassen|ослабевать|Der Schmerz lässt nach.
+preisgeben|выдавать, раскрывать|Er gab keine Details preis.
+rechtfertigen|оправдывать|Wie rechtfertigen Sie diese Entscheidung?
+regulieren|регулировать|Der Markt wird reguliert.
+schlichten|улаживать (спор)|Ein Vermittler schlichtete den Streit.
+schwächen|ослаблять|Die Krise schwächt die Wirtschaft.
+sichern|обеспечивать, сохранять|Das sichert Arbeitsplätze.
+sicherstellen|обеспечивать, гарантировать|Wir müssen die Qualität sicherstellen.
+stärken|укреплять|Sport stärkt das Herz.
+stützen|поддерживать, опирать|Die Daten stützen die These.
+übereinstimmen|совпадать, соглашаться|Die Ergebnisse stimmen überein.
+übergehen|переходить; обходить|Wir gehen zum nächsten Punkt über.
+überlassen|предоставлять, оставлять|Das überlasse ich dir.
+übersehen|не заметить, упустить|Ich habe den Fehler übersehen.
+übertragen|передавать, переносить|Das Spiel wird live übertragen.
+überwinden|преодолевать|Sie hat ihre Angst überwunden.
+umfassen|охватывать, включать|Der Bericht umfasst hundert Seiten.
+umgehen|обходить; обращаться|Wie gehst du mit Stress um?
+umstellen|перестраивать, переводить|Wir stellen auf Sommerzeit um.
+unterlassen|воздерживаться, не делать|Bitte unterlassen Sie das Rauchen.
+untermauern|подкреплять|Zahlen untermauern das Argument.
+unterziehen|подвергать|Er unterzog sich einer Operation.
+verankern|закреплять|Das Recht ist im Gesetz verankert.
+veranlassen|побуждать, распоряжаться|Was hat Sie dazu veranlasst?
+verantworten|нести ответственность за|Das muss der Chef verantworten.
+verbreiten|распространять|Die Nachricht verbreitete sich schnell.
+verdanken|быть обязанным|Das verdanke ich meinen Eltern.
+vereinfachen|упрощать|Wir wollen das Verfahren vereinfachen.
+vereinen|объединять|Der Sport vereint Menschen.
+verfassen|составлять, писать|Sie verfasste einen Bericht.
+verfolgen|преследовать, следить|Wir verfolgen ein klares Ziel.
+verhängen|назначать, вводить (наказание)|Das Gericht verhängte eine Strafe.
+verkörpern|воплощать|Sie verkörpert den Erfolg der Firma.
+verlagern|перемещать, переносить|Die Produktion wird ins Ausland verlagert.
+verleihen|вручать; давать напрокат|Der Preis wird jährlich verliehen.
+verpflichten|обязывать|Der Vertrag verpflichtet uns dazu.
+verringern|уменьшать|Wir wollen die Kosten verringern.
+versagen|отказывать; терпеть неудачу|Die Bremsen haben versagt.
+verschaffen|доставать, обеспечивать|Er verschaffte sich einen Überblick.
+verschlechtern|ухудшать|Die Lage hat sich verschlechtert.
+verschweigen|умалчивать|Er hat die Wahrheit verschwiegen.
+verüben|совершать (преступление)|Der Anschlag wurde nachts verübt.
+verwalten|управлять, администрировать|Sie verwaltet das Budget.
+verweigern|отказывать|Er verweigerte die Aussage.
+verzeichnen|регистрировать, отмечать|Die Firma verzeichnet ein Wachstum.
+verzögern|задерживать|Das Wetter verzögert den Bau.
+vollziehen|осуществлять, совершать|Der Wandel vollzieht sich langsam.
+vorgehen|действовать, поступать|Wie gehen wir jetzt vor?
+vorliegen|иметься, быть представленным|Die Ergebnisse liegen vor.
+vornehmen|предпринимать, производить|Wir nehmen einige Änderungen vor.
+vorschreiben|предписывать|Das Gesetz schreibt das vor.
+vortragen|докладывать, излагать|Sie trug ihre Ergebnisse vor.
+vorwegnehmen|предвосхищать|Ich möchte das Ergebnis nicht vorwegnehmen.
+wahren|соблюдать, хранить|Wir müssen den Schein wahren.
+widerspiegeln|отражать|Die Zahlen spiegeln die Lage wider.
+widmen|посвящать|Sie widmet sich ganz der Forschung.
+würdigen|отдавать должное|Seine Arbeit wurde gewürdigt.
+zugestehen|признавать, уступать|Das muss ich dir zugestehen.
+zulassen|допускать|Das lasse ich nicht zu.
+zurückweisen|отвергать|Er wies die Vorwürfe zurück.
+zusammenhängen|быть связанным|Das hängt mit dem Wetter zusammen.
+zuschreiben|приписывать|Der Erfolg wird ihm zugeschrieben.
+zusichern|заверять, гарантировать|Man hat mir Hilfe zugesichert.
+zuspitzen|обострять|Die Lage spitzt sich zu.
+zustehen|полагаться, причитаться|Das Geld steht dir zu.
+zuweisen|назначать, выделять|Jedem wurde ein Platz zugewiesen.
+
+# Прилагательные: оценка и анализ
+abwechslungsreich|разнообразный|Die Arbeit ist abwechslungsreich.
+akzeptabel|приемлемый|Das Angebot ist akzeptabel.
+allgemein|общий|Das ist allgemein bekannt.
+anfällig|подверженный, уязвимый|Das System ist anfällig für Fehler.
+anhaltend|продолжительный, непрекращающийся|Der anhaltende Regen führt zu Überschwemmungen.
+aufschlussreich|показательный, познавательный|Das Gespräch war sehr aufschlussreich.
+ausdrücklich|настоятельный, прямо выраженный|Das ist ausdrücklich verboten.
+ausgewogen|сбалансированный|Sie ernährt sich ausgewogen.
+ausschlaggebend|решающий|Der Preis war ausschlaggebend.
+außerordentlich|чрезвычайный|Das ist außerordentlich wichtig.
+bedenklich|вызывающий опасения|Die Entwicklung ist bedenklich.
+bedürftig|нуждающийся|Die Spenden gehen an bedürftige Familien.
+begehrt|востребованный, желанный|Die Wohnungen sind sehr begehrt.
+beharrlich|настойчивый|Er fragte beharrlich nach.
+bemerkenswert|примечательный|Das ist eine bemerkenswerte Leistung.
+benachbart|соседний|Die benachbarten Länder helfen.
+berechenbar|предсказуемый|Sein Verhalten ist berechenbar.
+beträchtlich|значительный|Der Schaden ist beträchtlich.
+bezeichnend|характерный|Das ist bezeichnend für ihn.
+bürokratisch|бюрократический|Das Verfahren ist sehr bürokratisch.
+dauerhaft|долговременный|Wir suchen eine dauerhafte Lösung.
+dürftig|скудный|Die Ergebnisse sind dürftig.
+durchschnittlich|средний|Das Gehalt ist durchschnittlich.
+eigenständig|самостоятельный|Sie arbeitet eigenständig.
+einseitig|односторонний|Die Darstellung ist einseitig.
+einzigartig|уникальный|Die Landschaft ist einzigartig.
+empfehlenswert|рекомендуемый|Das Buch ist sehr empfehlenswert.
+enorm|огромный|Der Druck ist enorm.
+entbehrlich|необязательный, без чего можно обойтись|Dieser Punkt ist entbehrlich.
+ergiebig|продуктивный, обильный|Die Diskussion war ergiebig.
+erstrebenswert|желанный, достойный стремления|Das ist ein erstrebenswertes Ziel.
+etabliert|устоявшийся|Das ist ein etabliertes Unternehmen.
+exakt|точный|Wir brauchen exakte Zahlen.
+existenziell|жизненно важный|Das ist eine existenzielle Frage.
+fachkundig|компетентный|Die Beratung war fachkundig.
+flächendeckend|повсеместный|Das Netz ist flächendeckend verfügbar.
+folgenreich|имеющий серьёзные последствия|Das war ein folgenreicher Fehler.
+fortschrittlich|прогрессивный|Das Land ist sehr fortschrittlich.
+fundiert|обоснованный|Sie hat fundierte Kenntnisse.
+gängig|распространённый, ходовой|Das ist die gängige Praxis.
+gemeinnützig|некоммерческий, общественно полезный|Der Verein ist gemeinnützig.
+geringfügig|незначительный|Die Unterschiede sind geringfügig.
+gewaltig|огромный, мощный|Das ist ein gewaltiger Unterschied.
+gezielt|целенаправленный|Wir fördern gezielt junge Talente.
+glaubhaft|правдоподобный|Seine Erklärung ist glaubhaft.
+gleichwertig|равноценный|Die Abschlüsse sind gleichwertig.
+grenzüberschreitend|трансграничный|Das ist ein grenzüberschreitendes Problem.
+handfest|веский, основательный|Es gibt handfeste Beweise.
+hinderlich|мешающий|Die Regeln sind eher hinderlich.
+hochwertig|высококачественный|Wir verwenden hochwertige Materialien.
+kontraproduktiv|контрпродуктивный|Der Vorschlag ist kontraproduktiv.
+kostspielig|дорогостоящий|Die Reparatur ist kostspielig.
+kurzfristig|краткосрочный; в короткий срок|Der Termin wurde kurzfristig abgesagt.
+langfristig|долгосрочный|Wir planen langfristig.
+mittelfristig|среднесрочный|Mittelfristig steigen die Preise.
+lückenhaft|неполный, с пробелами|Meine Kenntnisse sind lückenhaft.
+makellos|безупречный|Ihr Deutsch ist makellos.
+mangelhaft|неудовлетворительный|Die Qualität ist mangelhaft.
+markant|характерный, заметный|Er hat ein markantes Gesicht.
+mühsam|трудоёмкий, утомительный|Die Arbeit ist mühsam.
+nachteilig|невыгодный|Das wirkt sich nachteilig aus.
+naheliegend|напрашивающийся|Das ist die naheliegende Lösung.
+namhaft|известный, именитый|Namhafte Experten nehmen teil.
+nennenswert|заслуживающий упоминания|Es gab keine nennenswerten Probleme.
+offenkundig|явный|Das ist ein offenkundiger Fehler.
+pauschal|огульный; общей суммой|Das kann man nicht pauschal sagen.
+prägend|формирующий, определяющий|Das war eine prägende Erfahrung.
+problematisch|проблематичный|Die Lage ist problematisch.
+rasant|стремительный|Die Entwicklung ist rasant.
+ratsam|целесообразный|Es ist ratsam, früh zu buchen.
+reibungslos|бесперебойный|Der Ablauf war reibungslos.
+rückläufig|снижающийся|Die Zahlen sind rückläufig.
+sachgemäß|надлежащий|Das Gerät muss sachgemäß benutzt werden.
+schwerwiegend|серьёзный, тяжёлый|Das ist ein schwerwiegender Vorwurf.
+selbstkritisch|самокритичный|Er ist sehr selbstkritisch.
+sorglos|беззаботный|Sie geht sorglos mit Geld um.
+spürbar|ощутимый|Die Verbesserung ist spürbar.
+strittig|спорный|Dieser Punkt ist strittig.
+tragfähig|жизнеспособный, прочный|Wir brauchen eine tragfähige Lösung.
+transparent|прозрачный|Die Entscheidung muss transparent sein.
+überschaubar|обозримый|Die Kosten sind überschaubar.
+umsichtig|осмотрительный|Sie handelt sehr umsichtig.
+unabdingbar|непременный|Vertrauen ist unabdingbar.
+unangemessen|неуместный|Sein Verhalten war unangemessen.
+unausweichlich|неизбежный|Die Folgen sind unausweichlich.
+unbestritten|бесспорный|Ihr Erfolg ist unbestritten.
+unentbehrlich|незаменимый|Er ist für die Firma unentbehrlich.
+unverzichtbar|необходимый, без чего нельзя|Das Handy ist für viele unverzichtbar.
+unzureichend|недостаточный|Die Informationen sind unzureichend.
+verantwortungsbewusst|ответственный, сознательный|Sie handelt verantwortungsbewusst.
+verheerend|разрушительный|Die Folgen waren verheerend.
+verlässlich|надёжный|Wir brauchen verlässliche Daten.
+vermeintlich|мнимый, предполагаемый|Der vermeintliche Fehler war keiner.
+vertretbar|допустимый, оправданный|Die Kosten sind vertretbar.
+vielversprechend|многообещающий|Das klingt vielversprechend.
+voreilig|поспешный|Zieh keine voreiligen Schlüsse.
+vorrangig|первоочередной|Das ist unser vorrangiges Ziel.
+vorteilhaft|выгодный|Das Angebot ist vorteilhaft.
+wechselhaft|переменчивый|Das Wetter bleibt wechselhaft.
+weitreichend|далеко идущий|Die Entscheidung hat weitreichende Folgen.
+wirksam|действенный|Das Mittel ist sehr wirksam.
+zielführend|ведущий к цели|Diese Diskussion ist nicht zielführend.
+zukunftsweisend|перспективный|Das ist eine zukunftsweisende Technologie.
+zumutbar|приемлемый, посильный|Die Belastung ist zumutbar.
+zutreffend|верный, соответствующий|Die Beschreibung ist zutreffend.
+zweckmäßig|целесообразный|Die Einrichtung ist zweckmäßig.
+
+# Существительные: анализ и планирование
+der Abbau|сокращение, демонтаж|Der Abbau von Stellen ist geplant.
+die Abgrenzung|разграничение|Eine klare Abgrenzung ist nötig.
+der Ablauf|ход, порядок|Der Ablauf ist genau geplant.
+die Abschaffung|отмена|Die Abschaffung der Gebühr wird diskutiert.
+die Absprache|договорённость|Das war eine klare Absprache.
+der Abstand|дистанция|Halten Sie bitte Abstand.
+die Akzeptanz|принятие|Die Akzeptanz in der Bevölkerung ist hoch.
+die Angelegenheit|дело, вопрос|Das ist eine private Angelegenheit.
+der Anreiz|стимул|Das Gehalt ist ein Anreiz.
+der Anstieg|рост, подъём|Der Anstieg der Preise ist deutlich.
+der Rückgang|снижение|Der Rückgang der Geburten hält an.
+der Anteil|доля|Der Anteil der Frauen steigt.
+der Aufschub|отсрочка|Die Sache duldet keinen Aufschub.
+das Ausmaß|масштаб|Das Ausmaß der Schäden ist noch unklar.
+die Auseinandersetzung|спор; изучение|Es kam zu einer heftigen Auseinandersetzung.
+die Ausgangslage|исходная ситуация|Die Ausgangslage ist schwierig.
+die Befugnis|полномочие|Dazu fehlt mir die Befugnis.
+die Begründung|обоснование|Die Begründung überzeugt mich nicht.
+die Beeinträchtigung|ухудшение, ограничение|Es kommt zu Beeinträchtigungen im Verkehr.
+das Bedenken|сомнение, опасение|Ich habe Bedenken gegen den Plan.
+das Bedürfnis|потребность|Jeder Mensch hat das Bedürfnis nach Sicherheit.
+die Befürchtung|опасение|Die Befürchtung hat sich bestätigt.
+die Bereitschaft|готовность|Die Bereitschaft zu helfen ist groß.
+die Bestandsaufnahme|инвентаризация, оценка положения|Zuerst machen wir eine Bestandsaufnahme.
+die Beteiligung|участие|Die Beteiligung war gering.
+die Bewältigung|преодоление|Die Bewältigung der Krise dauert an.
+der Bezug|связь, отношение|Der Text hat keinen Bezug zum Thema.
+die Dringlichkeit|срочность|Die Dringlichkeit ist allen bewusst.
+die Durchführung|проведение|Die Durchführung des Projekts beginnt im Mai.
+die Einschätzung|оценка|Nach meiner Einschätzung ist das zu teuer.
+die Einschränkung|ограничение|Es gibt einige Einschränkungen.
+die Einsicht|понимание, осознание|Er kam zu der Einsicht, dass er falsch lag.
+der Einsatz|применение; вклад|Danke für Ihren Einsatz.
+die Entlastung|облегчение, разгрузка|Das bringt eine Entlastung für Familien.
+die Errungenschaft|достижение|Das Internet ist eine große Errungenschaft.
+das Fazit|вывод, итог|Mein Fazit ist positiv.
+die Förderung|поддержка, содействие|Die Förderung von Talenten ist wichtig.
+die Gegebenheit|данность, обстоятельство|Wir passen uns den Gegebenheiten an.
+der Gesichtspunkt|точка зрения, аспект|Unter diesem Gesichtspunkt hast du recht.
+die Handhabung|обращение, использование|Die Handhabung des Geräts ist einfach.
+die Herangehensweise|подход|Wir brauchen eine neue Herangehensweise.
+das Hindernis|препятствие|Die Sprache ist kein Hindernis.
+die Hürde|барьер|Die bürokratischen Hürden sind hoch.
+die Initiative|инициатива|Sie ergriff die Initiative.
+die Kehrseite|обратная сторона|Jede Medaille hat ihre Kehrseite.
+das Kriterium|критерий|Welche Kriterien sind wichtig?
+die Lücke|пробел, брешь|Im Lebenslauf gibt es eine Lücke.
+der Missstand|непорядок, злоупотребление|Die Presse deckte Missstände auf.
+die Notwendigkeit|необходимость|Die Notwendigkeit der Reform ist unbestritten.
+der Nutzen|польза|Der Nutzen ist größer als die Kosten.
+die Perspektive|перспектива|Aus meiner Perspektive ist das falsch.
+die Priorität|приоритет|Sicherheit hat Priorität.
+die Rahmenbedingungen|общие условия|Die Rahmenbedingungen haben sich geändert.
+die Regelung|регулирование, правило|Die neue Regelung gilt ab Januar.
+die Richtlinie|директива, руководство|Die Richtlinie wurde überarbeitet.
+der Rückschlag|неудача, откат|Das war ein schwerer Rückschlag.
+der Rückschluss|заключение (обратный вывод)|Daraus lassen sich Rückschlüsse ziehen.
+der Sachverhalt|положение дел|Der Sachverhalt ist kompliziert.
+der Schwerpunkt|основной акцент|Der Schwerpunkt liegt auf der Praxis.
+der Spielraum|свобода действий|Es gibt wenig Spielraum.
+der Stellenwert|значимость|Bildung hat einen hohen Stellenwert.
+die Tragweite|значение, масштаб последствий|Die Tragweite der Entscheidung ist groß.
+die Überlegung|соображение, размышление|Nach langer Überlegung sagte sie zu.
+die Umsetzung|реализация|Die Umsetzung dauert zwei Jahre.
+der Umbruch|перелом, перемены|Die Branche befindet sich im Umbruch.
+die Verfügbarkeit|доступность|Die Verfügbarkeit ist begrenzt.
+das Versäumnis|упущение|Das war ein schweres Versäumnis.
+die Verzögerung|задержка|Es kommt zu Verzögerungen.
+der Vorbehalt|оговорка|Ich stimme unter Vorbehalt zu.
+die Vorgabe|установка, требование|Die Vorgaben sind streng.
+das Vorhaben|намерение, проект|Das Vorhaben ist ehrgeizig.
+der Vorrang|приоритет, первенство|Fußgänger haben Vorrang.
+die Wechselwirkung|взаимодействие|Es gibt Wechselwirkungen mit anderen Medikamenten.
+der Widerspruch|противоречие; возражение|Das ist ein Widerspruch.
+der Widerstand|сопротивление|Der Plan stößt auf Widerstand.
+die Zumutung|наглость, чрезмерное требование|Das ist eine Zumutung!
+der Zwang|принуждение|Es gibt keinen Zwang.
+der Zwiespalt|внутренний разлад|Ich bin im Zwiespalt.
+
+# Обороты для связной речи
+auf Dauer|надолго, в долгосрочной перспективе|Auf Dauer ist das keine Lösung.
+auf den ersten Blick|на первый взгляд|Auf den ersten Blick sieht es einfach aus.
+aus diesem Grund|по этой причине|Aus diesem Grund bleibe ich zu Hause.
+bei Bedarf|при необходимости|Bei Bedarf helfe ich gern.
+im Allgemeinen|в общем|Im Allgemeinen bin ich zufrieden.
+im Einzelnen|в частности, подробно|Das müssen wir im Einzelnen besprechen.
+im Endeffekt|в конечном итоге|Im Endeffekt hat es sich gelohnt.
+im Grunde|в сущности|Im Grunde hast du recht.
+im Laufe der Zeit|с течением времени|Im Laufe der Zeit wurde es besser.
+im Nachhinein|задним числом|Im Nachhinein war es ein Fehler.
+im Rahmen|в рамках|Im Rahmen des Projekts reisen wir viel.
+im Übrigen|впрочем, кроме того|Im Übrigen bin ich anderer Meinung.
+im Voraus|заранее|Vielen Dank im Voraus.
+in Bezug auf|в отношении|In Bezug auf die Kosten gibt es Fragen.
+in der Tat|в самом деле|Das ist in der Tat ein Problem.
+in erster Linie|в первую очередь|In erster Linie geht es um Sicherheit.
+in gewisser Weise|в известном смысле|In gewisser Weise hat er recht.
+mit anderen Worten|другими словами|Mit anderen Worten: Es ist zu teuer.
+nach wie vor|по-прежнему|Das Problem besteht nach wie vor.
+ohne Weiteres|без затруднений|Das kann man ohne Weiteres machen.
+so gut wie|почти, практически|Die Arbeit ist so gut wie fertig.
+über kurz oder lang|рано или поздно|Über kurz oder lang wird sich das ändern.
+unter anderem|в числе прочего|Unter anderem sprachen wir über Geld.
+vor Kurzem|недавно|Vor Kurzem bin ich umgezogen.
+von Bedeutung sein|иметь значение|Das ist für uns von großer Bedeutung.
+zur Folge haben|иметь следствием|Das hat hohe Kosten zur Folge.
+in Verbindung stehen|быть связанным, на связи|Wir stehen in Verbindung.
+außer Frage stehen|не подлежать сомнению|Seine Kompetenz steht außer Frage.
+zur Debatte stehen|обсуждаться|Das steht nicht zur Debatte.
+auf Kritik stoßen|наталкиваться на критику|Der Plan stößt auf Kritik.
+in Erwägung ziehen|принимать во внимание, рассматривать|Wir ziehen einen Umzug in Erwägung.
+Bezug nehmen|ссылаться|Ich nehme Bezug auf Ihr Schreiben.
+Abstand nehmen|отказываться, дистанцироваться|Wir nehmen von dem Plan Abstand.
+Anklang finden|находить отклик|Die Idee fand großen Anklang.
+Bilanz ziehen|подводить итоги|Nach einem Jahr ziehen wir Bilanz.
+den Ausschlag geben|быть решающим|Der Preis gab den Ausschlag.
+ins Gewicht fallen|иметь вес, значение|Das fällt kaum ins Gewicht.
+auf dem Spiel stehen|быть на кону|Unsere Zukunft steht auf dem Spiel.
+an Bedeutung gewinnen|приобретать значение|Das Thema gewinnt an Bedeutung.
+zum Tragen kommen|проявляться, вступать в действие|Hier kommt seine Erfahrung zum Tragen.
+unter Beweis stellen|доказывать на деле|Sie hat ihr Können unter Beweis gestellt.
+zur Verfügung stellen|предоставлять|Die Firma stellt ein Auto zur Verfügung.
+in Frage kommen|быть возможным, подходить|Das kommt nicht in Frage.
+eine Rolle spielen|играть роль|Geld spielt keine Rolle.
+in Kontakt bleiben|оставаться на связи|Lass uns in Kontakt bleiben.
 `;

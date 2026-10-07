@@ -548,4 +548,179 @@ vor|перед|Das Auto steht vor dem Haus.
 hinter|за, позади|Der Garten ist hinter dem Haus.
 neben|рядом с|Die Bank ist neben der Post.
 zwischen|между|Die Apotheke ist zwischen Bank und Post.
+
+# Месяцы и время суток
+der Februar|февраль|Im Februar ist es kalt.
+der März|март|Im März beginnt der Frühling.
+der April|апрель|Im April regnet es oft.
+der Mai|май|Im Mai ist es schon warm.
+der Juni|июнь|Im Juni beginnt der Sommer.
+der August|август|Im August haben wir Urlaub.
+der September|сентябрь|Im September beginnt die Schule.
+der Oktober|октябрь|Im Oktober wird es kühl.
+der November|ноябрь|Im November ist es oft grau.
+die Jahreszeit|время года|Meine liebste Jahreszeit ist der Sommer.
+der Kalender|календарь|Der Termin steht im Kalender.
+der Vormittag|первая половина дня|Am Vormittag arbeite ich.
+die Mitternacht|полночь|Um Mitternacht schlafe ich schon.
+die Uhrzeit|время (на часах)|Welche Uhrzeit passt dir?
+die Sekunde|секунда|Eine Minute hat sechzig Sekunden.
+der Moment|момент|Einen Moment, bitte!
+der Anfang|начало|Am Anfang war es schwer.
+das Ende|конец|Am Ende des Monats bekomme ich Geld.
+morgens|по утрам|Morgens trinke ich Kaffee.
+mittags|в обед|Mittags esse ich in der Kantine.
+abends|по вечерам|Abends lese ich.
+nachts|по ночам|Nachts ist es ruhig.
+täglich|ежедневно|Ich lerne täglich Deutsch.
+vorgestern|позавчера|Vorgestern war ich im Kino.
+übermorgen|послезавтра|Übermorgen habe ich frei.
+
+# Числа и количество
+dreizehn|тринадцать|Mein Bruder ist dreizehn.
+vierzehn|четырнадцать|Der Urlaub dauert vierzehn Tage.
+fünfzehn|пятнадцать|Ich komme in fünfzehn Minuten.
+sechzehn|шестнадцать|Sie ist sechzehn Jahre alt.
+siebzehn|семнадцать|Der Bus kommt um siebzehn Uhr.
+achtzehn|восемнадцать|Mit achtzehn darf man Auto fahren.
+neunzehn|девятнадцать|Das kostet neunzehn Euro.
+vierzig|сорок|Mein Vater ist vierzig.
+fünfzig|пятьдесят|Das Hemd kostet fünfzig Euro.
+sechzig|шестьдесят|Eine Stunde hat sechzig Minuten.
+siebzig|семьдесят|Meine Oma ist siebzig.
+achtzig|восемьдесят|Er fährt achtzig Kilometer pro Stunde.
+neunzig|девяносто|Der Film dauert neunzig Minuten.
+die Million|миллион|In der Stadt wohnen eine Million Menschen.
+dritte|третий|Ich wohne im dritten Stock.
+letzte|последний|Das ist der letzte Bus.
+nächste|следующий|Die nächste Haltestelle ist der Bahnhof.
+beide|оба|Beide Kinder sind in der Schule.
+einige|некоторые|Einige Schüler fehlen heute.
+mehr|больше|Ich möchte mehr Wasser.
+weniger|меньше|Ich esse weniger Zucker.
+ein bisschen|немного|Ich spreche ein bisschen Deutsch.
+ein paar|несколько|Ich habe ein paar Fragen.
+alles|всё|Alles ist in Ordnung.
+einmal|один раз|Ich gehe einmal pro Woche schwimmen.
+zweimal|дважды|Ich esse zweimal am Tag.
+das Paar|пара|Ich kaufe ein Paar Schuhe.
+
+# Страны и языки
+Deutschland|Германия|Ich wohne in Deutschland.
+Österreich|Австрия|Wien liegt in Österreich.
+die Schweiz|Швейцария|Er arbeitet in der Schweiz.
+Europa|Европа|Deutschland liegt in Europa.
+Deutsch|немецкий язык|Ich lerne Deutsch.
+Englisch|английский язык|Sprechen Sie Englisch?
+Russisch|русский язык|Meine Muttersprache ist Russisch.
+Französisch|французский язык|Sie spricht gut Französisch.
+Spanisch|испанский язык|Ich verstehe ein bisschen Spanisch.
+die Hauptstadt|столица|Berlin ist die Hauptstadt von Deutschland.
+die Welt|мир, свет|Die Welt ist groß.
+der Ort|место, населённый пункт|Der Ort ist sehr klein.
+die Heimatstadt|родной город|Meine Heimatstadt ist Kiew.
+der Norden|север|Hamburg liegt im Norden.
+der Süden|юг|München liegt im Süden.
+der Osten|восток|Dresden liegt im Osten.
+der Westen|запад|Köln liegt im Westen.
+
+# Вещи и понятия
+das Problem|проблема|Das ist kein Problem.
+die Idee|идея|Das ist eine gute Idee.
+die Hilfe|помощь|Ich brauche Hilfe.
+der Spaß|удовольствие, веселье|Das macht Spaß.
+das Ding|вещь, штука|Was ist das für ein Ding?
+die Sache|вещь, дело|Das ist meine Sache.
+die Gruppe|группа|Wir lernen in einer Gruppe.
+die Liste|список|Ich schreibe eine Liste.
+die Karte|карта, открытка, билет|Ich schreibe eine Karte.
+der Automat|автомат|Der Automat ist kaputt.
+die Mitte|середина|Der Tisch steht in der Mitte.
+die Kamera|камера|Die Kamera ist neu.
+das Spielzeug|игрушка|Das Kind hat viel Spielzeug.
+der Ball|мяч|Der Ball ist rund.
+die Puppe|кукла|Das Mädchen spielt mit der Puppe.
+das Feuer|огонь|Das Feuer ist heiß.
+die Zigarette|сигарета|Er raucht eine Zigarette.
+das Fahrzeug|транспортное средство|Das Fahrzeug steht vor dem Haus.
+der Lkw|грузовик|Der Lkw ist sehr groß.
+das Motorrad|мотоцикл|Er fährt Motorrad.
+
+# Глаголы на каждый день
+frühstücken|завтракать|Ich frühstücke um sieben.
+verkaufen|продавать|Er verkauft sein Auto.
+zahlen|платить|Ich zahle bar.
+packen|упаковывать|Ich packe meinen Koffer.
+kennenlernen|знакомиться|Ich möchte dich kennenlernen.
+mitkommen|идти вместе|Kommst du mit?
+zurückkommen|возвращаться|Wann kommst du zurück?
+aussehen|выглядеть|Du siehst gut aus.
+mitmachen|участвовать|Machst du mit?
+ausziehen|снимать (одежду); съезжать|Zieh bitte die Schuhe aus.
+ansehen|смотреть, рассматривать|Ich sehe mir den Film an.
+zuhören|слушать внимательно|Hör mir bitte zu!
+weggehen|уходить|Geh nicht weg!
+losgehen|отправляться|Wir gehen jetzt los.
+baden|купаться|Die Kinder baden im See.
+telefonieren|говорить по телефону|Ich telefoniere mit meiner Mutter.
+chatten|переписываться в чате|Ich chatte mit Freunden.
+klicken|кликать|Klicken Sie hier.
+surfen|сидеть в интернете|Er surft im Internet.
+bestehen aus|состоять из|Die Wohnung besteht aus drei Zimmern.
+kommen aus|быть родом из|Ich komme aus der Ukraine.
+Sport treiben|заниматься спортом|Ich treibe viel Sport.
+einsteigen in|садиться в|Wir steigen in den Bus ein.
+Hunger haben|быть голодным|Ich habe Hunger.
+Durst haben|хотеть пить|Hast du Durst?
+recht haben|быть правым|Du hast recht.
+Zeit haben|иметь время|Hast du morgen Zeit?
+leidtun|быть жаль|Es tut mir leid.
+
+# Наречия и оценки
+prima|отлично|Das ist prima!
+super|супер|Der Film war super.
+komisch|странный, смешной|Das ist komisch.
+wunderschön|прекрасный|Die Stadt ist wunderschön.
+perfekt|идеальный|Dein Deutsch ist perfekt.
+normal|нормальный|Das ist ganz normal.
+einverstanden|согласен|Bist du einverstanden?
+lieber|охотнее, лучше|Ich trinke lieber Tee.
+wirklich|действительно|Das ist wirklich gut.
+ganz|совсем, весь|Das ist ganz einfach.
+gerade|как раз, сейчас|Ich esse gerade.
+da|тут, там|Ist Peter da?
+drüben|на той стороне|Die Post ist da drüben.
+hinten|сзади|Die Toilette ist hinten.
+vorn|впереди|Bitte vorn einsteigen.
+zurück|назад|Ich bin gleich zurück.
+weg|прочь, нет на месте|Mein Schlüssel ist weg.
+zu Hause|дома|Ich bin zu Hause.
+nach Hause|домой|Ich gehe nach Hause.
+zu Fuß|пешком|Ich gehe zu Fuß.
+jeden Tag|каждый день|Ich arbeite jeden Tag.
+pro|в, за (каждый)|Ich lerne zwei Stunden pro Tag.
+so|так|So ist das Leben.
+circa|примерно|Das dauert circa eine Stunde.
+
+# Полезные фразы
+Wie geht's?|как дела?|Hallo Anna, wie geht's?
+Wie bitte?|простите, что?|Wie bitte? Ich verstehe nicht.
+Kein Problem|без проблем|Kein Problem, ich helfe dir.
+Viel Spaß|желаю хорошо провести время|Viel Spaß im Kino!
+Guten Appetit|приятного аппетита|Das Essen ist fertig. Guten Appetit!
+Prost|за здоровье (тост)|Prost! Auf dich!
+Herzlichen Glückwunsch|поздравляю|Herzlichen Glückwunsch zum Geburtstag!
+Gute Reise|счастливого пути|Gute Reise und bis bald!
+Bis später|до скорого|Tschüss, bis später!
+Bis morgen|до завтра|Gute Nacht, bis morgen!
+Alles Gute|всего хорошего|Alles Gute zum Geburtstag!
+Gern geschehen|не за что|Danke! — Gern geschehen.
+Keine Ahnung|понятия не имею|Wo ist er? — Keine Ahnung.
+Vorsicht|осторожно|Vorsicht, die Suppe ist heiß!
+Achtung|внимание|Achtung, ein Auto kommt!
+Gute Besserung|выздоравливай|Du bist krank? Gute Besserung!
+Schönes Wochenende|хороших выходных|Tschüss und schönes Wochenende!
+Stimmt|верно|Stimmt, du hast recht.
+Na klar|ну конечно|Kommst du mit? — Na klar!
+Macht nichts|ничего страшного|Entschuldigung! — Macht nichts.
 `;

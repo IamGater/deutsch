@@ -608,4 +608,127 @@ gegen|против; около (о времени)|Ich komme gegen acht.
 durch|через, сквозь|Wir gehen durch den Park.
 über|над; о|Wir sprechen über den Film.
 gegenüber|напротив|Die Bank ist gegenüber.
+
+# Город и услуги
+das Rathaus|ратуша|Das Rathaus steht am Marktplatz.
+der Marktplatz|рыночная площадь|Wir treffen uns am Marktplatz.
+die Innenstadt|центр города|In der Innenstadt gibt es viele Geschäfte.
+der Stadtteil|район города|In welchem Stadtteil wohnst du?
+das Zentrum|центр|Das Hotel liegt im Zentrum.
+die Fußgängerzone|пешеходная зона|In der Fußgängerzone fahren keine Autos.
+der Bürgersteig|тротуар|Bitte auf dem Bürgersteig gehen.
+das Gebäude|здание|Das Gebäude ist sehr hoch.
+die Tankstelle|заправка|Die Tankstelle ist geöffnet.
+die Reinigung|химчистка|Ich bringe den Anzug in die Reinigung.
+der Briefkasten|почтовый ящик|Der Brief liegt im Briefkasten.
+die Briefmarke|почтовая марка|Ich brauche eine Briefmarke.
+der Absender|отправитель|Wer ist der Absender?
+der Empfänger|получатель|Der Empfänger ist nicht zu Hause.
+die Postleitzahl|почтовый индекс|Wie ist Ihre Postleitzahl?
+die Öffnungszeiten|часы работы|Wie sind die Öffnungszeiten?
+geöffnet|открыто|Das Museum ist bis 18 Uhr geöffnet.
+der Schalter|окошко, стойка|Bitte gehen Sie zum Schalter drei.
+die Feuerwehr|пожарная служба|Die Feuerwehr kommt sofort.
+der Notruf|экстренный вызов|Der Notruf ist 112.
+das Fundbüro|бюро находок|Frag im Fundbüro nach.
+der Spielplatz|детская площадка|Die Kinder sind auf dem Spielplatz.
+der Zoo|зоопарк|Am Sonntag gehen wir in den Zoo.
+das Stadion|стадион|Das Spiel ist im Stadion.
+die Bushaltestelle|автобусная остановка|Ich warte an der Bushaltestelle.
+der Fahrplan|расписание транспорта|Der Fahrplan hängt dort.
+die Linie|линия, маршрут|Nehmen Sie die Linie 5.
+die Monatskarte|проездной на месяц|Ich habe eine Monatskarte.
+der Fahrgast|пассажир|Die Fahrgäste steigen aus.
+der Fußgänger|пешеход|Fußgänger müssen hier warten.
+
+# Одежда и внешность
+das Aussehen|внешность|Das Aussehen ist nicht so wichtig.
+schlank|стройный|Sie ist groß und schlank.
+blond|светловолосый|Er hat blonde Haare.
+der Bart|борода|Mein Vater hat einen Bart.
+die Frisur|причёска|Die neue Frisur steht dir.
+hübsch|хорошенький, красивый|Das Kleid ist hübsch.
+elegant|элегантный|Sie sieht elegant aus.
+die Unterwäsche|нижнее бельё|Unterwäsche gibt es im ersten Stock.
+der Schlafanzug|пижама|Das Kind trägt einen Schlafanzug.
+die Jeans|джинсы|Ich trage gern Jeans.
+der Badeanzug|купальник|Vergiss den Badeanzug nicht!
+die Krawatte|галстук|Er trägt eine Krawatte.
+der Knopf|пуговица|Der Knopf ist ab.
+der Reißverschluss|молния (застёжка)|Der Reißverschluss ist kaputt.
+die Sonnenbrille|солнечные очки|Wo ist meine Sonnenbrille?
+die Wolle|шерсть|Der Pullover ist aus Wolle.
+die Baumwolle|хлопок|Das T-Shirt ist aus Baumwolle.
+das Leder|кожа (материал)|Die Tasche ist aus Leder.
+der Stoff|ткань|Der Stoff ist weich.
+gestreift|в полоску|Er trägt ein gestreiftes Hemd.
+kariert|в клетку|Das karierte Hemd gefällt mir.
+bunt|разноцветный|Das Kleid ist bunt.
+rosa|розовый|Das Baby trägt ein rosa Kleid.
+lila|фиолетовый|Die Blumen sind lila.
+orange|оранжевый|Die Jacke ist orange.
+
+# Школа и офис
+der Kugelschreiber|шариковая ручка|Kann ich deinen Kugelschreiber haben?
+der Bleistift|карандаш|Ich schreibe mit Bleistift.
+der Radiergummi|ластик|Hast du einen Radiergummi?
+das Lineal|линейка|Ich brauche ein Lineal.
+die Schere|ножницы|Die Schere liegt auf dem Tisch.
+der Kleber|клей|Wo ist der Kleber?
+die Tafel|доска|Der Lehrer schreibt an die Tafel.
+der Ordner|папка|Die Papiere sind im Ordner.
+der Schreibtisch|письменный стол|Der Computer steht auf dem Schreibtisch.
+der Rucksack|рюкзак|Der Rucksack ist schwer.
+der Stundenplan|расписание уроков|Der Stundenplan ist voll.
+die Mathematik|математика|Mathematik ist mein Lieblingsfach.
+die Geografie|география|In Geografie lernen wir viel über Europa.
+die Biologie|биология|Biologie finde ich interessant.
+die Physik|физика|Physik ist schwierig.
+die Chemie|химия|In Chemie machen wir Experimente.
+die Erdkunde|география (школьный предмет)|Wir haben heute Erdkunde.
+die Kopie|копия|Ich brauche eine Kopie.
+kopieren|копировать|Kannst du das kopieren?
+der Zettel|листок, записка|Ich schreibe es auf einen Zettel.
+notieren|записывать|Ich notiere mir die Nummer.
+die Notiz|заметка|Ich mache mir Notizen.
+der Umschlag|конверт|Der Brief ist im Umschlag.
+die Büroklammer|скрепка|Hast du eine Büroklammer?
+der Taschenrechner|калькулятор|Darf ich den Taschenrechner benutzen?
+
+# Ещё глаголы
+aussuchen|подбирать, выбирать себе|Such dir etwas aus!
+beantworten|отвечать на|Bitte beantworten Sie die Frage.
+bedienen|обслуживать|Der Kellner bedient die Gäste.
+besorgen|доставать, покупать|Ich besorge noch Brot.
+bewegen|двигать|Ich kann den Arm nicht bewegen.
+brennen|гореть|Das Licht brennt noch.
+einpacken|упаковывать|Soll ich es als Geschenk einpacken?
+einschalten|включать|Schalte bitte das Radio ein.
+ausschalten|выключать|Schalte bitte den Computer aus.
+entschuldigen|извинять|Entschuldigen Sie bitte die Störung.
+füttern|кормить|Ich füttere die Katze.
+gießen|поливать|Ich gieße die Blumen.
+heben|поднимать|Kannst du die Kiste heben?
+hinfallen|падать (о человеке)|Das Kind ist hingefallen.
+küssen|целовать|Sie küsst das Baby.
+lügen|лгать|Du sollst nicht lügen.
+mischen|смешивать|Mischen Sie Mehl und Zucker.
+nähen|шить|Meine Oma näht gern.
+rasieren|брить|Er rasiert sich jeden Morgen.
+rechnen|считать, вычислять|Das Kind kann schon rechnen.
+schieben|толкать, двигать|Wir schieben das Auto.
+schimpfen|ругаться|Der Vater schimpft mit dem Sohn.
+schütteln|трясти|Vor Gebrauch schütteln.
+springen|прыгать|Das Kind springt ins Wasser.
+stecken|совать, вставлять|Der Schlüssel steckt in der Tür.
+streichen|красить; мазать|Wir streichen die Wand.
+tauschen|меняться|Wollen wir die Plätze tauschen?
+träumen|видеть сны, мечтать|Ich träume von einem Haus am Meer.
+trocknen|сушить, сохнуть|Die Wäsche trocknet draußen.
+überqueren|переходить (улицу)|Wir überqueren die Straße.
+verpassen|пропустить, опоздать на|Ich habe den Bus verpasst.
+verstecken|прятать|Die Kinder verstecken sich.
+wiegen|весить, взвешивать|Ich wiege siebzig Kilo.
+zählen|считать|Das Kind zählt bis zehn.
+zusammenleben|жить вместе|Wir leben seit zwei Jahren zusammen.
 `;

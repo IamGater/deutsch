@@ -203,5 +203,103 @@ const GRAMMAR_B1 = [
       { question: 'Immer ___ er nach Berlin kam, besuchte er uns.', options: ['wenn', 'als', 'wann'] },
       { question: 'Ich spare Geld, ___ ich mir ein Auto kaufen kann.', options: ['damit', 'um', 'deshalb'] }
     ]
+  },
+  {
+    id: 'b1-plusquamperfekt',
+    level: 'B1',
+    title: 'Plusquamperfekt и союз nachdem',
+    rule: `
+      <p>Plusquamperfekt показывает, что одно действие в прошлом произошло раньше другого. Формула: <b>hatte / war</b> + Partizip II.</p>
+      <p class="rule-example">Als ich ankam, <b>war</b> der Zug schon <b>abgefahren</b>. — Когда я пришёл, поезд уже ушёл.<br>
+        Ich <b>hatte</b> den Film schon <b>gesehen</b>. — Я этот фильм уже (до того) видел.</p>
+      <ul>
+        <li>Выбор между hatte и war — как в Perfekt: глаголы движения и смены состояния идут с <b>war</b>.</li>
+        <li>После союза <b>nachdem</b> (после того как) стоит Plusquamperfekt, а в главном предложении — Präteritum или Perfekt: Nachdem ich <b>gegessen hatte</b>, <b>ging</b> ich spazieren.</li>
+      </ul>
+    `,
+    exercises: [
+      { question: 'Als wir ankamen, ___ der Film schon begonnen.', answer: 'hatte' },
+      { question: 'Nachdem er nach Hause gekommen ___, rief er mich an.', answer: 'war' },
+      { question: 'Ich hatte das Buch schon ___. (lesen)', answer: 'gelesen' },
+      { question: 'Nachdem sie gefrühstückt ___, fuhr sie zur Arbeit.', options: ['hatte', 'war', 'hat'] },
+      { question: 'Der Zug ___ schon abgefahren, als ich am Bahnhof ankam.', options: ['war', 'hatte', 'ist'] },
+      { question: 'Выберите правильное предложение:', options: ['Nachdem ich gegessen hatte, ging ich spazieren.', 'Nachdem ich hatte gegessen, ging ich spazieren.', 'Nachdem ich gegessen hatte, ich ging spazieren.'] }
+    ]
+  },
+  {
+    id: 'b1-n-deklination',
+    level: 'B1',
+    title: 'Слабое склонение существительных (n-Deklination)',
+    rule: `
+      <p>Некоторые существительные мужского рода получают окончание <b>-(e)n</b> во всех падежах, кроме Nominativ единственного числа.</p>
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>Nominativ</th><th>Akkusativ</th><th>Dativ</th><th>Genitiv</th></tr>
+          <tr><td>der Student</td><td>den Student<b>en</b></td><td>dem Student<b>en</b></td><td>des Student<b>en</b></td></tr>
+          <tr><td>der Kollege</td><td>den Kollege<b>n</b></td><td>dem Kollege<b>n</b></td><td>des Kollege<b>n</b></td></tr>
+        </table>
+      </div>
+      <p>К этой группе относятся:</p>
+      <ul>
+        <li>слова мужского рода на <b>-e</b>: der Junge, der Kunde, der Kollege, der Name, der Russe;</li>
+        <li>слова на <b>-ent, -ant, -ist, -at</b>: der Student, der Praktikant, der Tourist, der Soldat;</li>
+        <li>отдельные слова: der Herr (den Herr<b>n</b>), der Mensch, der Nachbar, der Bauer.</li>
+      </ul>
+    `,
+    exercises: [
+      { question: 'Ich kenne den ___ gut. (Student)', answer: 'Studenten' },
+      { question: 'Wir helfen dem neuen ___. (Kollege)', answer: 'Kollegen' },
+      { question: 'Haben Sie Herrn Müller gesehen? — Ja, ich habe den ___ gesehen. (Herr)', answer: 'Herrn' },
+      { question: 'Der Verkäufer berät den ___.', options: ['Kunden', 'Kunde', 'Kundes'] },
+      { question: 'Das ist das Auto meines ___.', options: ['Nachbarn', 'Nachbar', 'Nachbars'] },
+      { question: 'Wie ist der ___ des Touristen?', options: ['Name', 'Namen', 'Namens'] }
+    ]
+  },
+  {
+    id: 'b1-indirekte-fragen',
+    level: 'B1',
+    title: 'Косвенные вопросы',
+    rule: `
+      <p>Косвенный вопрос — это вопрос внутри другого предложения. Он звучит вежливее прямого и строится как придаточное: глагол в конце.</p>
+      <ul>
+        <li>Вопрос с вопросительным словом сохраняет его: Wo ist der Bahnhof? → Können Sie mir sagen, <b>wo</b> der Bahnhof <b>ist</b>?</li>
+        <li>Вопрос «да / нет» вводится союзом <b>ob</b> (ли): Kommt er? → Ich weiß nicht, <b>ob</b> er <b>kommt</b>.</li>
+      </ul>
+      <p>Типичные начала: Ich weiß nicht, … / Können Sie mir sagen, … / Ich möchte wissen, … / Er fragt, …</p>
+    `,
+    exercises: [
+      { question: 'Ich weiß nicht, ___ er kommt.', answer: 'ob' },
+      { question: 'Können Sie mir sagen, wo der Bahnhof ___? (sein)', answer: 'ist' },
+      { question: 'Выберите правильное предложение:', options: ['Weißt du, wann der Film beginnt?', 'Weißt du, wann beginnt der Film?', 'Weißt du, wann der Film beginnen?'] },
+      { question: 'Er fragt, ___ ich Zeit habe.', options: ['ob', 'dass', 'wenn'] },
+      { question: 'Ich möchte wissen, ___ das kostet.', options: ['wie viel', 'ob viel', 'dass'] },
+      { question: 'Sag mir bitte, warum du nicht gekommen ___. (sein)', answer: 'bist' }
+    ]
+  },
+  {
+    id: 'b1-temporale-nebensaetze',
+    level: 'B1',
+    title: 'Придаточные времени: bevor, während, seit, bis, sobald',
+    rule: `
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>союз</th><th>значение</th><th>пример</th></tr>
+          <tr><td><b>bevor</b></td><td>прежде чем</td><td>Bevor ich gehe, rufe ich dich an.</td></tr>
+          <tr><td><b>während</b></td><td>в то время как</td><td>Während ich koche, hört er Musik.</td></tr>
+          <tr><td><b>seit / seitdem</b></td><td>с тех пор как</td><td>Seit er hier wohnt, ist er glücklich.</td></tr>
+          <tr><td><b>bis</b></td><td>пока не</td><td>Ich warte, bis du kommst.</td></tr>
+          <tr><td><b>sobald</b></td><td>как только</td><td>Sobald ich fertig bin, komme ich.</td></tr>
+        </table>
+      </div>
+      <p>Во всех этих придаточных глагол стоит в конце. Обратите внимание: после <b>bis</b> в немецком нет отрицания — «пока не придёшь» = bis du kommst.</p>
+    `,
+    exercises: [
+      { question: '___ ich ins Bett gehe, putze ich mir die Zähne.', options: ['Bevor', 'Nachdem', 'Seit'] },
+      { question: '___ ich koche, hört er Musik.', options: ['Während', 'Bevor', 'Bis'] },
+      { question: 'Ich warte hier, ___ du zurückkommst.', answer: 'bis' },
+      { question: '___ er in Berlin wohnt, spricht er besser Deutsch.', options: ['Seit', 'Bis', 'Bevor'] },
+      { question: '___ ich fertig bin, rufe ich dich an.', options: ['Sobald', 'Während', 'Seit'] },
+      { question: 'Wir müssen warten, bis der Regen ___. (aufhören)', answer: 'aufhört' }
+    ]
   }
 ];

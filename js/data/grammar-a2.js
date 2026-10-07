@@ -208,5 +208,81 @@ const GRAMMAR_A2 = [
       { question: 'Sie hat ein ___ Auto.', options: ['rotes', 'roter', 'roten'] },
       { question: 'Der ___ Mann heißt Karl.', options: ['alte', 'alter', 'alten'] }
     ]
+  },
+  {
+    id: 'a2-personalpronomen',
+    level: 'A2',
+    title: 'Личные местоимения в Akkusativ и Dativ',
+    rule: `
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>Nominativ</th><th>ich</th><th>du</th><th>er</th><th>sie</th><th>es</th><th>wir</th><th>ihr</th><th>sie / Sie</th></tr>
+          <tr><td>Akkusativ</td><td>mich</td><td>dich</td><td>ihn</td><td>sie</td><td>es</td><td>uns</td><td>euch</td><td>sie / Sie</td></tr>
+          <tr><td>Dativ</td><td>mir</td><td>dir</td><td>ihm</td><td>ihr</td><td>ihm</td><td>uns</td><td>euch</td><td>ihnen / Ihnen</td></tr>
+        </table>
+      </div>
+      <ul>
+        <li>Akkusativ — после глаголов sehen, kennen, lieben, besuchen, anrufen: Ich sehe <b>ihn</b>.</li>
+        <li>Dativ — после helfen, danken, gefallen, gehören, schmecken: Das Buch gefällt <b>mir</b>.</li>
+        <li>Если в предложении два местоимения, сначала идёт Akkusativ: Ich gebe <b>es ihm</b>.</li>
+      </ul>
+    `,
+    exercises: [
+      { question: 'Ich rufe ___ morgen an. (du)', answer: 'dich' },
+      { question: 'Kennst du Peter? — Ja, ich kenne ___.', answer: 'ihn' },
+      { question: 'Das Kleid gefällt ___ sehr. (sie, она)', answer: 'ihr' },
+      { question: 'Kannst du ___ bitte helfen? (wir)', options: ['uns', 'wir', 'unser'] },
+      { question: 'Wo ist Anna? Ich sehe ___ nicht.', options: ['sie', 'ihr', 'ihn'] },
+      { question: 'Die Pizza schmeckt ___ nicht. (ich)', options: ['mir', 'mich', 'ich'] }
+    ]
+  },
+  {
+    id: 'a2-praepositionen-akkusativ',
+    level: 'A2',
+    title: 'Предлоги с Akkusativ',
+    rule: `
+      <p>После предлогов <b>für, ohne, gegen, durch, um, bis</b> всегда стоит Akkusativ.</p>
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>предлог</th><th>значение</th><th>пример</th></tr>
+          <tr><td>für</td><td>для, за</td><td>Das Geschenk ist für <b>meinen</b> Vater.</td></tr>
+          <tr><td>ohne</td><td>без</td><td>Ohne <b>dich</b> gehe ich nicht.</td></tr>
+          <tr><td>gegen</td><td>против; около (о времени)</td><td>Er ist gegen <b>den</b> Plan.</td></tr>
+          <tr><td>durch</td><td>через, сквозь</td><td>Wir gehen durch <b>den</b> Park.</td></tr>
+          <tr><td>um</td><td>вокруг; в (о времени)</td><td>Die Kinder laufen um <b>das</b> Haus.</td></tr>
+        </table>
+      </div>
+      <p>Напоминание: в Akkusativ меняется только мужской род — der → <b>den</b>, ein → <b>einen</b>, mein → <b>meinen</b>.</p>
+    `,
+    exercises: [
+      { question: 'Das Geschenk ist für ___ Vater. (mein)', answer: 'meinen' },
+      { question: 'Wir gehen durch ___ Park.', options: ['den', 'dem', 'der'] },
+      { question: 'Er ist gegen ___ Plan. (der)', answer: 'den' },
+      { question: 'Ohne ___ kann ich nicht leben. (du)', answer: 'dich' },
+      { question: 'Die Kinder laufen um ___ Haus. (das)', answer: 'das' },
+      { question: 'Herr Braun, das ist für ___.', options: ['Sie', 'Ihnen', 'Ihr'] }
+    ]
+  },
+  {
+    id: 'a2-konjunktionen',
+    level: 'A2',
+    title: 'Союзы и порядок слов: aber, denn, sondern, deshalb, trotzdem',
+    rule: `
+      <ul>
+        <li><b>und, aber, oder, denn, sondern</b> не занимают места в предложении: после них порядок слов обычный. Ich komme nicht, <b>denn ich habe</b> keine Zeit.</li>
+        <li><b>deshalb, trotzdem, dann</b> — это наречия, они стоят на первом месте, и сразу за ними идёт глагол: Er ist krank, <b>deshalb bleibt er</b> zu Hause.</li>
+        <li><b>sondern</b> («а, но») используется только после отрицания: Nicht heute, <b>sondern</b> morgen.</li>
+      </ul>
+      <p class="rule-example">Es regnet, <b>aber wir gehen</b> spazieren.<br>
+        Es regnet, <b>trotzdem gehen wir</b> spazieren.</p>
+    `,
+    exercises: [
+      { question: 'Ich komme nicht mit, ___ ich habe keine Zeit.', options: ['denn', 'weil', 'deshalb'] },
+      { question: 'Er ist krank, ___ bleibt er zu Hause.', options: ['deshalb', 'denn', 'weil'] },
+      { question: 'Das ist nicht mein Auto, ___ das Auto meines Bruders.', answer: 'sondern' },
+      { question: 'Выберите правильное предложение:', options: ['Es regnet, trotzdem gehen wir spazieren.', 'Es regnet, trotzdem wir gehen spazieren.', 'Es regnet, trotzdem spazieren wir gehen.'] },
+      { question: 'Möchtest du Tee ___ Kaffee?', answer: 'oder' },
+      { question: 'Sie ist klein, ___ sehr stark.', options: ['aber', 'sondern', 'denn'] }
+    ]
   }
 ];

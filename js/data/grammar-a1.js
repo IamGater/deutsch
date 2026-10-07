@@ -261,5 +261,86 @@ const GRAMMAR_A1 = [
       { question: 'Sie hat ein Auto ___. (kaufen)', answer: 'gekauft' },
       { question: 'Выберите правильное предложение:', options: ['Ich habe gestern Fußball gespielt.', 'Ich habe gespielt gestern Fußball.', 'Ich gespielt habe gestern Fußball.'] }
     ]
+  },
+  {
+    id: 'a1-imperativ',
+    level: 'A1',
+    title: 'Повелительное наклонение (Imperativ)',
+    rule: `
+      <p>Imperativ выражает просьбу, совет или приказ. Форма зависит от того, к кому обращаются.</p>
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th></th><th>kommen</th><th>warten</th><th>nehmen</th><th>sein</th></tr>
+          <tr><td>du</td><td>Komm!</td><td>Warte!</td><td>Nimm!</td><td>Sei!</td></tr>
+          <tr><td>ihr</td><td>Kommt!</td><td>Wartet!</td><td>Nehmt!</td><td>Seid!</td></tr>
+          <tr><td>Sie</td><td>Kommen Sie!</td><td>Warten Sie!</td><td>Nehmen Sie!</td><td>Seien Sie!</td></tr>
+        </table>
+      </div>
+      <ul>
+        <li>Форма <b>du</b>: глагол без окончания -st и без местоимения. Смена e → i сохраняется (nimm, gib, lies), а умлаут исчезает (du fährst → fahr!).</li>
+        <li>Отделяемая приставка уходит в конец: <b>Ruf</b> mich <b>an</b>!</li>
+        <li>Слово <b>bitte</b> делает просьбу вежливой: Kommen Sie bitte herein.</li>
+      </ul>
+    `,
+    exercises: [
+      { question: '___ bitte das Fenster auf! (du, aufmachen)', answer: 'Mach' },
+      { question: '___ Sie bitte hier! (warten)', answer: 'Warten' },
+      { question: '___ mir bitte das Buch! (du, geben)', options: ['Gib', 'Gibst', 'Geb'] },
+      { question: 'Kinder, ___ bitte leise! (sein)', options: ['seid', 'sei', 'sind'] },
+      { question: 'Выберите правильное предложение:', options: ['Ruf mich bitte morgen an!', 'Anruf mich bitte morgen!', 'Rufst mich bitte morgen an!'] },
+      { question: '___ nicht so schnell! (du, fahren)', answer: 'Fahr', alsoCorrect: ['Fahre'] }
+    ]
+  },
+  {
+    id: 'a1-plural',
+    level: 'A1',
+    title: 'Множественное число существительных',
+    rule: `
+      <p>Во множественном числе у всех существительных артикль <b>die</b>. Единого правила для окончаний нет, поэтому форму множественного числа лучше учить вместе со словом.</p>
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>окончание</th><th>примеры</th></tr>
+          <tr><td>-e (часто с умлаутом)</td><td>der Tisch → die Tisch<b>e</b>, der Stuhl → die St<b>ü</b>hl<b>e</b></td></tr>
+          <tr><td>-er (с умлаутом)</td><td>das Kind → die Kind<b>er</b>, das Buch → die B<b>ü</b>ch<b>er</b></td></tr>
+          <tr><td>-n / -en</td><td>die Lampe → die Lampe<b>n</b>, die Frau → die Frau<b>en</b></td></tr>
+          <tr><td>-s</td><td>das Auto → die Auto<b>s</b>, das Hotel → die Hotel<b>s</b></td></tr>
+          <tr><td>без окончания</td><td>der Lehrer → die Lehrer, der Bruder → die Br<b>ü</b>der</td></tr>
+        </table>
+      </div>
+      <p>Слова женского рода на <b>-e</b> почти всегда получают <b>-n</b>.</p>
+    `,
+    exercises: [
+      { question: 'Wir haben zwei ___. (Kind)', answer: 'Kinder' },
+      { question: 'Vor dem Haus stehen drei ___. (Auto)', answer: 'Autos' },
+      { question: 'Ich lese viele ___. (Buch)', answer: 'Bücher' },
+      { question: 'Die ___ sind neu.', options: ['Lampen', 'Lampe', 'Lampes'] },
+      { question: 'Ich habe zwei ___.', options: ['Brüder', 'Bruders', 'Brudern'] },
+      { question: 'Im Zimmer stehen vier ___. (Stuhl)', answer: 'Stühle' }
+    ]
+  },
+  {
+    id: 'a1-zeitangaben',
+    level: 'A1',
+    title: 'Время: um, am, im, von … bis',
+    rule: `
+      <div class="table-scroll">
+        <table class="rule-table">
+          <tr><th>предлог</th><th>когда</th><th>пример</th></tr>
+          <tr><td><b>um</b></td><td>точное время</td><td>um neun Uhr, um halb acht</td></tr>
+          <tr><td><b>am</b></td><td>дни недели, даты, части дня</td><td>am Montag, am 5. Mai, am Abend</td></tr>
+          <tr><td><b>im</b></td><td>месяцы, времена года, годы с «Jahr»</td><td>im Juli, im Sommer, im Jahr 2020</td></tr>
+          <tr><td><b>von … bis</b></td><td>промежуток</td><td>von acht bis fünf, von Montag bis Freitag</td></tr>
+        </table>
+      </div>
+      <p>Исключение: <b>in der Nacht</b>. Год называют без предлога: Ich bin 1995 geboren.</p>
+    `,
+    exercises: [
+      { question: 'Der Kurs beginnt ___ neun Uhr.', answer: 'um' },
+      { question: '___ Montag habe ich frei.', answer: 'Am' },
+      { question: '___ Sommer fahren wir ans Meer.', answer: 'Im' },
+      { question: 'Ich arbeite ___ acht bis fünf.', options: ['von', 'um', 'am'] },
+      { question: '___ Abend sehe ich fern.', options: ['Am', 'Im', 'Um'] },
+      { question: '___ der Nacht schlafe ich.', options: ['In', 'Am', 'Um'] }
+    ]
   }
 ];
