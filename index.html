@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Deutsch — немецкий с A1 до B1</title>
+  <meta name="description" content="Интерактивный тренажёр немецкого языка: словарь, грамматика, практика и точный расчёт готовности к уровням A1–B2.">
+  <script>
+    // Тема применяется до отрисовки, чтобы не было вспышки
+    (function () {
+      var t = null;
+      try { t = (JSON.parse(localStorage.getItem('deutsch.progress.v1')) || {}).theme; } catch (e) {}
+      if (!t) t = window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.dataset.theme = t;
+    })();
+  </script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-in">
+      <a class="brand" href="#/">Deutsch<span>.</span></a>
+      <nav class="nav">
+        <a href="#/" data-root="home">Обзор</a>
+        <a href="#/vocab" data-root="vocab">Словарь</a>
+        <a href="#/grammar" data-root="grammar">Грамматика</a>
+        <a href="#/practice" data-root="practice">Практика</a>
+      </nav>
+      <button class="icon-btn" id="theme" type="button" aria-label="Переключить тему" title="Тёмная / светлая тема">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main id="app" class="wrap"></main>
+
+  <noscript><p class="wrap">Для работы сайта нужен JavaScript.</p></noscript>
+
+  <script src="js/data/words-a1.js"></script>
+  <script src="js/data/words-a2.js"></script>
+  <script src="js/data/words-b1.js"></script>
+  <script src="js/data/grammar.js"></script>
+  <script src="js/data/practice.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
