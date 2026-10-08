@@ -628,6 +628,10 @@ function showResult(container, options) {
   link.href = options.linkAddress;
 
   container.replaceChildren(element);
+
+  if (onLessonFinished) {
+    onLessonFinished();
+  }
 }
 
 // Итог с процентом и надписью «Зачтено» / «Пока не зачтено» — для урока, теста и диалога
