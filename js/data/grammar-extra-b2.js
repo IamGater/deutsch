@@ -1,0 +1,135 @@
+// Дополнительные упражнения к темам B2 (добавляются к grammar-b2.js в content.js).
+const GRAMMAR_EXTRA_B2 = {
+  'b2-konjunktiv1': [
+    { question: 'Sie sagt, sie ___ krank. (sein, Konjunktiv I)', answer: 'sei' },
+    { question: 'Er meint, das Wetter ___ morgen besser. (werden, Konjunktiv I)', answer: 'werde' },
+    { question: 'Der Zeuge berichtet, er ___ den Mann nie gesehen. (haben, Konjunktiv I)', answer: 'habe' },
+    { question: 'Der Chef sagte, wir ___ pünktlich sein. (sollen, Konjunktiv I)', answer: 'sollten' },
+    { question: 'Die Zeitung schreibt, der Politiker ___ zurückgetreten.', options: ['sei', 'ist', 'wäre'] },
+    { question: 'Sie erzählt, sie ___ jeden Tag Sport.', options: ['mache', 'macht', 'machte'] },
+    { question: 'Er sagte, er ___ gestern im Kino gewesen.', options: ['sei', 'bin', 'wären'] },
+    { question: 'Sie erklärten, sie ___ keine Zeit. (haben — замещающая форма)', answer: 'hätten' },
+    { question: 'Der Arzt riet, ich ___ mehr schlafen. (sollen, Konjunktiv I)', answer: 'solle' },
+    { question: 'Die Kinder behaupten, sie ___ nichts gehört.', options: ['hätten', 'hatten', 'hat'] }
+  ],
+  'b2-konjunktiv2-vergangenheit': [
+    { question: 'Wenn ich gewusst hätte, dass du kommst, ___ ich Kuchen gebacken.', answer: 'hätte' },
+    { question: 'Wenn sie früher aufgestanden ___, hätte sie den Bus nicht verpasst.', answer: 'wäre' },
+    { question: 'Hätten wir mehr Zeit gehabt, ___ wir länger geblieben.', answer: 'wären' },
+    { question: 'Ich ___ gern länger geschlafen.', options: ['hätte', 'wäre', 'würde'] },
+    { question: 'Wenn es nicht geschneit hätte, ___ wir nach Hause gefahren.', options: ['wären', 'hätten', 'würden'] },
+    { question: 'Er hätte uns ___ sollen. (anrufen)', answer: 'anrufen' },
+    { question: 'Sie tat so, als ___ sie nichts gesehen. (haben)', answer: 'hätte' },
+    { question: 'An deiner Stelle ___ ich das nicht gesagt.', options: ['hätte', 'wäre', 'habe'] },
+    { question: 'Ohne die Hilfe der Nachbarn ___ das Haus abgebrannt. (sein)', answer: 'wäre' },
+    { question: 'Wenn ich Zeit gehabt ___, wäre ich mitgekommen.', options: ['hätte', 'wäre', 'würde'] }
+  ],
+  'b2-passiv-ersatz': [
+    { question: 'Das Problem lässt sich leicht ___. (lösen)', answer: 'lösen' },
+    { question: 'Der Antrag ist bis Montag ___. (einreichen)', answer: 'einzureichen' },
+    { question: 'Die Rechnung ist noch nicht ___. (bezahlen — Zustandspassiv)', answer: 'bezahlt' },
+    { question: 'Das Fenster ist schon seit Tagen ___. (Zustandspassiv, öffnen)', answer: 'geöffnet' },
+    { question: 'Der Text ist leicht ___. (verstehen — может быть понят)', options: ['verständlich', 'verstehend', 'verstanden'] },
+    { question: 'Das Gerät ___ sich leicht bedienen.', options: ['lässt', 'wird', 'hat'] },
+    { question: 'Die Aufgabe ist ohne Hilfe nicht zu ___. (schaffen)', answer: 'schaffen' },
+    { question: 'Der Fehler kann behoben werden. = Der Fehler ist ___.', options: ['behebbar', 'behobend', 'zu behoben'] },
+    { question: 'Man kann das Wasser trinken. = Das Wasser ist ___.', options: ['trinkbar', 'trinkend', 'getrunken'] },
+    { question: 'Die Tür wird gerade repariert. — Jetzt ist die Tür ___.', answer: 'repariert' }
+  ],
+  'b2-partizipien': [
+    { question: 'Der ___ Hund bellt laut. (schlafen — Partizip I)', answer: 'schlafende' },
+    { question: 'Die ___ Kinder spielen im Garten. (lachen)', answer: 'lachenden' },
+    { question: 'Das ___ Fenster muss ersetzt werden. (zerbrechen — Partizip II)', answer: 'zerbrochene' },
+    { question: 'Der von der Polizei ___ Mann ist unschuldig. (verhaften)', answer: 'verhaftete' },
+    { question: 'Die ___ Zahl der Studenten ist gestiegen.', options: ['wachsende', 'gewachsene', 'wachsend'] },
+    { question: 'Das ___ Essen schmeckt gut.', options: ['gekochte', 'kochende', 'kochte'] },
+    { question: 'Die Fragen, die noch beantwortet werden müssen = die noch zu ___ Fragen', answer: 'beantwortenden' },
+    { question: 'Der Mann, der dort wartet = der dort ___ Mann', answer: 'wartende' },
+    { question: 'Das Buch, das ich gelesen habe = das von mir ___ Buch', answer: 'gelesene' },
+    { question: 'Die ___ Sonne ist schön anzusehen.', options: ['untergehende', 'untergegangene', 'untergehend'] }
+  ],
+  'b2-nomen-verb': [
+    { question: 'Wir müssen eine Lösung ___.', options: ['finden', 'treffen', 'üben'] },
+    { question: 'Die Firma ___ Maßnahmen gegen den Lärm.', options: ['ergreift', 'macht', 'stellt'] },
+    { question: 'Das spielt keine ___. (Das ist nicht wichtig.)', answer: 'Rolle' },
+    { question: 'Bitte geben Sie mir ___, wenn Sie angekommen sind. (informieren)', answer: 'Bescheid' },
+    { question: 'Viele Menschen nehmen das Angebot in ___.', answer: 'Anspruch' },
+    { question: 'Er brachte seine Freude zum ___.', answer: 'Ausdruck' },
+    { question: 'Dieses Auto kommt für mich nicht in ___.', answer: 'Frage' },
+    { question: 'Der Student stellt einen ___ auf ein Stipendium.', options: ['Antrag', 'Auftrag', 'Vortrag'] },
+    { question: 'Wir ___ Rücksicht auf die Gäste.', options: ['nehmen', 'üben', 'treffen'] },
+    { question: 'Die Kritik an dem Plan wird immer lauter. = Man ___ Kritik an dem Plan.', options: ['übt', 'macht', 'gibt'] }
+  ],
+  'b2-zweiteilige-konnektoren': [
+    { question: 'Er spricht nicht nur Deutsch, ___ auch Chinesisch.', answer: 'sondern' },
+    { question: 'Weder mein Bruder ___ meine Schwester kommt.', answer: 'noch' },
+    { question: 'Sowohl der Chef ___ auch die Mitarbeiter waren zufrieden.', answer: 'als' },
+    { question: 'Je früher du anfängst, ___ früher bist du fertig.', answer: 'desto' },
+    { question: 'Entweder wir fahren mit dem Zug, ___ wir fliegen.', options: ['oder', 'noch', 'sondern'] },
+    { question: 'Die Wohnung ist zwar klein, ___ sehr gemütlich.', options: ['aber', 'sondern', 'noch'] },
+    { question: 'Nicht nur das Wetter, ___ auch das Essen war schlecht.', options: ['sondern', 'aber', 'als'] },
+    { question: 'Je länger ich warte, ___ nervöser werde ich.', options: ['desto', 'als', 'je'] },
+    { question: 'Sie ist teils begabt, ___ fleißig. (teils … teils)', answer: 'teils' },
+    { question: 'Sie hat ___ Zeit noch Geld.', options: ['weder', 'sowohl', 'entweder'] }
+  ],
+  'b2-praepositionaladverbien': [
+    { question: '___ interessierst du dich? — Für Fotografie.', answer: 'Wofür' },
+    { question: '___ freust du dich? — Auf den Urlaub.', answer: 'Worauf' },
+    { question: 'Hast du Angst vor Spinnen? — Ja, ich habe große Angst ___.', answer: 'davor' },
+    { question: 'Wir sprechen über das Projekt. — Wir sprechen ___.', options: ['darüber', 'davon', 'darauf'] },
+    { question: 'Ich warte schon lange ___. (на это)', options: ['darauf', 'dafür', 'damit'] },
+    { question: 'Mit ___ sprichst du? — Mit meiner Schwester.', options: ['wem', 'was', 'womit'] },
+    { question: 'Er träumt ___ einer Weltreise.', options: ['von', 'an', 'auf'] },
+    { question: 'Er träumt ___. (об этом)', answer: 'davon' },
+    { question: 'Sie ärgert sich ___ den Lärm.', options: ['über', 'für', 'mit'] },
+    { question: '___ hast du dich beworben? — Um eine Stelle als Ingenieur.', answer: 'Worum' }
+  ],
+  'b2-modalverben-subjektiv': [
+    { question: 'Er ___ zu Hause sein, das Licht brennt. (почти наверняка)', options: ['muss', 'soll', 'will'] },
+    { question: 'Laut Zeitung ___ der Minister zurücktreten. (по сообщениям)', options: ['soll', 'muss', 'kann'] },
+    { question: 'Sie ___ den Weg gekannt haben. (она сама утверждает)', options: ['will', 'soll', 'dürfte'] },
+    { question: 'Das ___ ein Fehler gewesen sein. (возможно)', options: ['kann', 'will', 'muss'] },
+    { question: 'Er ___ krank sein. (не может быть, он здоров)', options: ['kann nicht', 'muss nicht', 'will nicht'] },
+    { question: 'Er muss den Zug verpasst ___.', answer: 'haben' },
+    { question: 'Sie dürfte schon zu Hause ___. (sein)', answer: 'sein' },
+    { question: 'Er soll sehr reich ___. (sein)', answer: 'sein' },
+    { question: 'Es ___ heute noch regnen. (вероятно)', options: ['dürfte', 'will', 'soll'] },
+    { question: 'Sie will die Prüfung bestanden ___.', answer: 'haben' }
+  ],
+  'b2-nominalstil': [
+    { question: 'Weil er krank war, blieb er zu Hause. = ___ seiner Krankheit blieb er zu Hause.', answer: 'Wegen', alsoCorrect: ['Aufgrund', 'Infolge'] },
+    { question: 'Obwohl es regnete, gingen wir spazieren. = ___ des Regens gingen wir spazieren.', answer: 'Trotz' },
+    { question: 'Während er studierte, arbeitete er. = ___ des Studiums arbeitete er.', answer: 'Während' },
+    { question: 'Bevor er abflog, rief er an. = ___ dem Abflug rief er an.', options: ['Vor', 'Nach', 'Bei'] },
+    { question: 'Nachdem sie die Prüfung bestanden hatte, feierte sie. = ___ bestandener Prüfung feierte sie.', options: ['Nach', 'Vor', 'Seit'] },
+    { question: 'Wenn man Fieber hat, sollte man im Bett bleiben. = ___ Fieber sollte man im Bett bleiben.', options: ['Bei', 'Trotz', 'Vor'] },
+    { question: 'Er hat die Wohnung gekündigt, weil er umziehen will. = Er hat die Wohnung wegen seines ___ gekündigt. (Umzug)', answer: 'Umzugs', alsoCorrect: ['Umzuges'] },
+    { question: 'Die Preise steigen. = Der ___ der Preise (steigen)', answer: 'Anstieg' },
+    { question: 'Weil das Wetter schlecht ist, fällt das Fest aus. = ___ des schlechten Wetters fällt das Fest aus.', options: ['Wegen', 'Trotz', 'Während'] },
+    { question: 'Er wartete, bis der Zug ankam. = Er wartete bis zur ___ des Zuges. (ankommen → Nomen)', answer: 'Ankunft' }
+  ],
+  'b2-genitivpraepositionen': [
+    { question: '___ des Staus kam er zu spät.', options: ['Wegen', 'Mithilfe', 'Anlässlich'] },
+    { question: 'Aufgrund ___ Krankheit fällt der Kurs aus. (eine)', answer: 'einer' },
+    { question: 'Innerhalb ___ Stadt gibt es viele Parks. (die)', answer: 'der' },
+    { question: 'Außerhalb ___ Stadt wohnt es sich ruhiger. (die)', answer: 'der' },
+    { question: '___ des Gesetzes darf man hier nicht parken.', options: ['Laut', 'Trotz', 'Anstelle'] },
+    { question: 'Anstelle ___ Kaffees trinke ich Tee. (der)', answer: 'des' },
+    { question: '___ seiner Verspätung begann das Meeting pünktlich.', options: ['Trotz', 'Aufgrund', 'Infolge'] },
+    { question: 'Diesseits ___ Grenze beginnt die Schweiz. (die)', answer: 'der' },
+    { question: 'Mithilfe ___ Wörterbuchs verstand er den Text. (das)', answer: 'des' },
+    { question: 'Hinsichtlich ___ Termins gibt es Fragen. (der)', answer: 'des' }
+  ],
+  'b2-modalpartikeln': [
+    { question: 'Das habe ich dir ___ gesagt! (напоминание: «я же говорил»)', options: ['doch', 'mal', 'eben'] },
+    { question: 'Gib mir ___ das Salz. (мягкая просьба)', options: ['mal', 'wohl', 'denn'] },
+    { question: 'Was ist ___ los? (удивление, интерес)', options: ['denn', 'halt', 'ja'] },
+    { question: 'Du kennst ihn ___. (ты же знаешь)', options: ['ja', 'mal', 'eben'] },
+    { question: 'Das ist ___ so, daran kann man nichts ändern. (так уж есть)', options: ['halt', 'wohl', 'mal'] },
+    { question: 'Er ist ___ noch bei der Arbeit. (наверное)', options: ['wohl', 'denn', 'mal'] },
+    { question: 'Komm ___ herein! (радушное приглашение)', options: ['doch', 'wohl', 'denn'] },
+    { question: 'Wie spät ist es ___? (вопрос с интересом)', options: ['denn', 'ja', 'eben'] },
+    { question: 'Das war ___ ein schöner Tag! (восклицание)', options: ['aber', 'wohl', 'mal'] },
+    { question: 'Hilf mir ___ kurz! (ненавязчиво)', options: ['mal', 'wohl', 'denn'] }
+  ]
+};

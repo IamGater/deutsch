@@ -1,0 +1,147 @@
+// Дополнительные упражнения к темам B1 (добавляются к grammar-b1.js в content.js).
+const GRAMMAR_EXTRA_B1 = {
+  'b1-praeteritum': [
+    { question: 'Gestern ___ ich einen alten Freund. (treffen)', answer: 'traf' },
+    { question: 'Sie ___ den ganzen Tag im Garten. (arbeiten)', answer: 'arbeitete' },
+    { question: 'Wir ___ nach dem Essen spazieren. (gehen)', answer: 'gingen' },
+    { question: 'Er ___ mir die Wahrheit nicht. (sagen)', answer: 'sagte' },
+    { question: 'Der Lehrer ___ uns eine Geschichte. (erzählen)', answer: 'erzählte' },
+    { question: 'Als er jung war, ___ er viel Sport.', options: ['trieb', 'treibte', 'getrieben'] },
+    { question: 'Ich ___ das Buch auf den Tisch. (legen)', answer: 'legte' },
+    { question: 'Sie ___ lange im Bett. (bleiben)', answer: 'blieb' },
+    { question: 'Die Sonne ___ den ganzen Tag.', options: ['schien', 'scheinte', 'geschienen'] },
+    { question: 'Wir ___ die Rechnung sofort. (bezahlen)', answer: 'bezahlten' }
+  ],
+  'b1-konjunktiv2': [
+    { question: 'Wenn ich du ___, würde ich das nicht tun. (sein)', answer: 'wäre' },
+    { question: 'Ich ___ gern mehr Urlaub. (haben)', answer: 'hätte' },
+    { question: 'Wenn er mehr Geld ___, würde er ein Haus kaufen. (haben)', answer: 'hätte' },
+    { question: '___ du mir bitte das Salz geben? (können)', answer: 'Könntest' },
+    { question: 'An deiner Stelle ___ ich früher ins Bett gehen.', options: ['würde', 'wurde', 'werde'] },
+    { question: 'Wenn es nicht regnen ___, gingen wir spazieren.', options: ['würde', 'wurde', 'wird'] },
+    { question: 'Ich ___ gern Pilot. (sein, Wunsch)', answer: 'wäre' },
+    { question: '___ ich nur mehr Zeit!', options: ['Hätte', 'Habe', 'Wäre'] },
+    { question: 'Wir ___ gern nach Japan reisen. (mögen)', answer: 'möchten' },
+    { question: 'Du ___ nicht so viel rauchen.', options: ['solltest', 'sollst', 'sollten'] }
+  ],
+  'b1-passiv': [
+    { question: 'Das Essen ___ von meiner Mutter gekocht. (werden, Präsens)', answer: 'wird' },
+    { question: 'Die Fenster ___ jeden Samstag geputzt. (werden)', answer: 'werden' },
+    { question: 'Der Dieb ___ gestern von der Polizei gefasst. (werden, Präteritum)', answer: 'wurde' },
+    { question: 'Das Problem muss sofort gelöst ___.', options: ['werden', 'wird', 'worden'] },
+    { question: 'Der Brief ___ gestern geschrieben.', options: ['wurde', 'wird', 'wurden'] },
+    { question: 'In diesem Restaurant ___ viel Fisch gegessen.', options: ['wird', 'werden', 'wurden'] },
+    { question: 'Das Haus wurde im Jahr 1900 ___. (bauen)', answer: 'gebaut' },
+    { question: 'Die Gäste ___ herzlich begrüßt. (werden, Präteritum)', answer: 'wurden' },
+    { question: 'Das Buch wurde ___ Goethe geschrieben.', options: ['von', 'durch', 'mit'] },
+    { question: 'Der Computer soll morgen ___ werden. (reparieren)', answer: 'repariert' }
+  ],
+  'b1-relativsaetze': [
+    { question: 'Der Mann, ___ dort steht, ist mein Lehrer.', answer: 'der' },
+    { question: 'Die Frau, ___ ich gestern gesehen habe, ist Ärztin.', answer: 'die' },
+    { question: 'Das Kind, ___ ich helfe, heißt Tim.', options: ['dem', 'das', 'den'] },
+    { question: 'Das ist das Haus, in ___ ich wohne.', answer: 'dem' },
+    { question: 'Der Film, ___ ich gestern gesehen habe, war toll.', options: ['den', 'der', 'dem'] },
+    { question: 'Das sind die Leute, ___ neben uns wohnen.', options: ['die', 'denen', 'den'] },
+    { question: 'Die Kollegin, mit ___ ich spreche, ist neu.', answer: 'der' },
+    { question: 'Der Tisch, ___ in der Küche steht, ist alt.', answer: 'der' },
+    { question: 'Die Bücher, ___ ich gekauft habe, sind teuer.', options: ['die', 'denen', 'der'] },
+    { question: 'Das ist der Freund, ___ ich viel verdanke.', options: ['dem', 'den', 'der'] }
+  ],
+  'b1-genitiv': [
+    { question: 'Das ist das Handy ___ Kollegen. (der Kollege)', answer: 'des' },
+    { question: 'Die Farbe ___ Autos gefällt mir. (das)', answer: 'des' },
+    { question: 'Der Name ___ Stadt ist Passau. (die)', answer: 'der' },
+    { question: 'Wegen ___ Krankheit konnte er nicht kommen. (die)', answer: 'der' },
+    { question: 'Trotz ___ Regens gingen wir spazieren.', options: ['des', 'dem', 'den'] },
+    { question: 'Das Haus ___ Nachbarn ist groß. (мой сосед)', options: ['meines', 'mein', 'meinem'] },
+    { question: 'Während ___ Sommers ist es hier sehr warm. (der)', answer: 'des' },
+    { question: 'Die Kinder ___ Lehrerin sind laut. (die)', answer: 'der' },
+    { question: 'Anna ist die Freundin ___ Bruders.', options: ['meines', 'meinem', 'mein'] },
+    { question: 'Wegen des schlechten ___ blieben wir zu Hause. (Wetter)', answer: 'Wetters' }
+  ],
+  'b1-infinitiv-zu': [
+    { question: 'Es ist schön, dich ___ sehen.', answer: 'zu' },
+    { question: 'Ich habe keine Lust, heute ___ arbeiten.', answer: 'zu' },
+    { question: 'Er hat vergessen, die Tür ___. (abschließen)', answer: 'abzuschließen' },
+    { question: 'Sie fängt an, Deutsch ___ lernen.', options: ['zu', 'um zu', 'ohne zu'] },
+    { question: 'Ich gehe in die Bibliothek, ___ ein Buch zu leihen.', options: ['um', 'damit', 'ohne'] },
+    { question: 'Er geht weg, ___ etwas zu sagen.', options: ['ohne', 'um', 'dass'] },
+    { question: 'Es ist nicht leicht, eine Wohnung ___ finden.', answer: 'zu' },
+    { question: 'Hast du Zeit, mir ___ helfen?', answer: 'zu' },
+    { question: 'Wir haben beschlossen, nach Wien ___. (umziehen)', answer: 'umzuziehen' },
+    { question: 'Ich versuche, früher ins Bett ___ gehen.', options: ['zu', 'um', 'ohne'] }
+  ],
+  'b1-futur': [
+    { question: 'Morgen ___ es sonnig sein. (werden)', answer: 'wird' },
+    { question: 'Wir ___ nächstes Jahr heiraten. (werden)', answer: 'werden' },
+    { question: 'Ich ___ dir helfen, versprochen. (werden)', answer: 'werde' },
+    { question: 'Du ___ dich bestimmt gut erholen. (werden)', answer: 'wirst' },
+    { question: 'Der Zug ___ pünktlich ankommen.', options: ['wird', 'werden', 'wirst'] },
+    { question: 'Ihr ___ viel Spaß haben.', options: ['werdet', 'wird', 'werden'] },
+    { question: 'Er wird morgen nach Berlin ___. (fahren)', answer: 'fahren' },
+    { question: 'Выберите правильное предложение:', options: ['Ich werde morgen früh aufstehen.', 'Ich werde aufstehen früh morgen.', 'Ich aufstehen werde morgen früh.'] },
+    { question: 'Sie ___ es nie erfahren.', options: ['wird', 'werde', 'wirst'] },
+    { question: 'Wir ___ euch bald besuchen. (werden)', answer: 'werden' }
+  ],
+  'b1-konnektoren': [
+    { question: '___ er viel arbeitet, hat er wenig Geld.', options: ['Obwohl', 'Deshalb', 'Trotzdem'] },
+    { question: 'Er arbeitet viel. ___ hat er wenig Geld.', options: ['Trotzdem', 'Obwohl', 'Weil'] },
+    { question: 'Ich lerne Deutsch, ___ ich in Berlin studieren will.', options: ['weil', 'deshalb', 'obwohl'] },
+    { question: 'Es hat geschneit. ___ ist der Zug ausgefallen.', options: ['Deshalb', 'Weil', 'Obwohl'] },
+    { question: '___ ich in Wien war, habe ich das Schloss besucht.', options: ['Als', 'Wenn', 'Wann'] },
+    { question: 'Jedes Mal, ___ sie anruft, bin ich nicht da.', options: ['wenn', 'als', 'wann'] },
+    { question: 'Er spart, ___ er sich ein Fahrrad kaufen kann.', options: ['damit', 'um', 'deshalb'] },
+    { question: 'Sie ist krank, ___ geht sie zur Arbeit. (несмотря на это)', answer: 'trotzdem' },
+    { question: 'Ich nehme einen Schirm mit, ___ es regnet.', options: ['falls', 'obwohl', 'sodass'] },
+    { question: 'Es war sehr kalt, ___ haben wir die Heizung eingeschaltet. (поэтому)', answer: 'deshalb', alsoCorrect: ['deswegen', 'darum'] }
+  ],
+  'b1-plusquamperfekt': [
+    { question: 'Nachdem ich gegessen ___, ging ich schlafen.', answer: 'hatte' },
+    { question: 'Als wir ankamen, ___ die Party schon begonnen.', answer: 'hatte' },
+    { question: 'Sie war müde, weil sie nicht gut ___ hatte. (schlafen)', answer: 'geschlafen' },
+    { question: 'Nachdem er ins Haus ___ war, zog er die Schuhe aus. (gehen)', answer: 'gegangen' },
+    { question: 'Er ___ das Geld schon ausgegeben, als der Monat zu Ende war.', options: ['hatte', 'war', 'hat'] },
+    { question: 'Wir ___ schon abgefahren, als sie kam.', options: ['waren', 'hatten', 'sind'] },
+    { question: 'Nachdem sie telefoniert ___, schrieb sie eine E-Mail.', options: ['hatte', 'war', 'hat'] },
+    { question: 'Ich hatte den Schlüssel zu Hause ___. (vergessen)', answer: 'vergessen' },
+    { question: 'Выберите правильное предложение:', options: ['Nachdem wir gegessen hatten, tranken wir Kaffee.', 'Nachdem wir hatten gegessen, tranken wir Kaffee.', 'Nachdem wir gegessen haben, tranken wir Kaffee.'] },
+    { question: 'Er war schon ___, als ich anrief. (einschlafen)', answer: 'eingeschlafen' }
+  ],
+  'b1-n-deklination': [
+    { question: 'Ich frage den ___. (Polizist)', answer: 'Polizisten' },
+    { question: 'Wir sprechen mit dem ___. (Kunde)', answer: 'Kunden' },
+    { question: 'Die Frau liebt ihren ___. (Junge)', answer: 'Jungen' },
+    { question: 'Der Lehrer lobt den ___.', options: ['Studenten', 'Student', 'Studentes'] },
+    { question: 'Das Fahrrad gehört dem ___.', options: ['Nachbarn', 'Nachbar', 'Nachbars'] },
+    { question: 'Ich kenne den ___ sehr gut. (Kollege)', answer: 'Kollegen' },
+    { question: 'Die Kinder besuchen den ___ im Zoo. (Affe)', answer: 'Affen' },
+    { question: 'Das ist die Idee meines ___.', options: ['Kollegen', 'Kollege', 'Kolleges'] },
+    { question: 'Der ___ wohnt neben uns. (Nachbar, Nominativ)', answer: 'Nachbar' },
+    { question: 'Wir danken dem ___ für die Hilfe. (Herr)', answer: 'Herrn' }
+  ],
+  'b1-indirekte-fragen': [
+    { question: 'Ich weiß nicht, wann der Zug ___. (kommen)', answer: 'kommt' },
+    { question: 'Kannst du mir sagen, ___ er wohnt?', options: ['wo', 'ob', 'dass'] },
+    { question: 'Er fragt, ___ du mitkommen möchtest.', options: ['ob', 'wann', 'weil'] },
+    { question: 'Wissen Sie, ___ das Museum öffnet?', options: ['wann', 'ob', 'dass'] },
+    { question: 'Ich frage mich, ___ sie gesagt hat. (was)', answer: 'was' },
+    { question: 'Weißt du, ob er schon nach Hause gegangen ___?', answer: 'ist' },
+    { question: 'Выберите правильное предложение:', options: ['Ich möchte wissen, wie spät es ist.', 'Ich möchte wissen, wie spät ist es.', 'Ich möchte wissen, wie es spät ist.'] },
+    { question: 'Выберите правильное предложение:', options: ['Sie fragt, wo ich arbeite.', 'Sie fragt, wo arbeite ich.', 'Sie fragt, wo ich arbeiten.'] },
+    { question: 'Sag mir, ___ du das Buch gekauft hast. (где)', answer: 'wo' },
+    { question: 'Ich weiß nicht, ___ er Hunger hat.', options: ['ob', 'wer', 'wie'] }
+  ],
+  'b1-temporale-nebensaetze': [
+    { question: '___ ich nach Hause kam, war es schon dunkel.', options: ['Als', 'Bevor', 'Bis'] },
+    { question: '___ du fertig bist, gehen wir essen.', options: ['Sobald', 'Seit', 'Während'] },
+    { question: 'Ich lerne Deutsch, ___ ich in Deutschland bin.', options: ['seit', 'bevor', 'bis'] },
+    { question: 'Wasch dir die Hände, ___ du isst.', answer: 'bevor' },
+    { question: 'Wir warten, ___ der Bus kommt.', answer: 'bis' },
+    { question: '___ die Kinder schlafen, sehen wir einen Film.', options: ['Während', 'Bevor', 'Seitdem'] },
+    { question: '___ er die Prüfung bestanden hatte, feierte er mit Freunden.', options: ['Nachdem', 'Bevor', 'Bis'] },
+    { question: 'Ruf mich an, ___ du angekommen bist. (как только)', answer: 'sobald' },
+    { question: 'Seit er in Deutschland ___, spricht er viel besser. (sein)', answer: 'ist' },
+    { question: 'Ich bleibe hier, ___ du zurück bist.', options: ['bis', 'bevor', 'seit'] }
+  ]
+};

@@ -1,0 +1,135 @@
+// Дополнительные упражнения к темам A2 (добавляются к grammar-a2.js в content.js).
+const GRAMMAR_EXTRA_A2 = {
+  'a2-dativ': [
+    { question: 'Ich wohne bei ___ Eltern. (meine)', answer: 'meinen' },
+    { question: 'Er schenkt ___ Frau Blumen. (die)', answer: 'der' },
+    { question: 'Wir fahren mit ___ Zug. (der)', answer: 'dem' },
+    { question: 'Das Kleid gehört ___ Schwester.', options: ['meiner', 'meine', 'meinen'] },
+    { question: 'Seit ___ Jahr lerne ich Deutsch.', options: ['einem', 'einen', 'ein'] },
+    { question: 'Sie kommt aus ___ Schweiz. (die — aus + Dativ)', answer: 'der' },
+    { question: 'Ich danke ___ für die Hilfe. (du)', answer: 'dir' },
+    { question: 'Nach ___ Kurs trinken wir Kaffee.', options: ['dem', 'den', 'der'] },
+    { question: 'Der Lehrer erklärt ___ Kindern die Regel.', options: ['den', 'die', 'der'] },
+    { question: 'Zu ___ Arzt gehe ich morgen. (der)', answer: 'dem' }
+  ],
+  'a2-wechselpraepositionen': [
+    { question: 'Wohin? Ich stelle die Vase auf ___ Tisch. (der)', answer: 'den' },
+    { question: 'Wo? Die Vase steht auf ___ Tisch. (der)', answer: 'dem' },
+    { question: 'Der Hund liegt unter ___ Bett. (das)', answer: 'dem' },
+    { question: 'Sie hängt das Bild an ___ Wand.', options: ['die', 'der', 'dem'] },
+    { question: 'Das Bild hängt an ___ Wand.', options: ['der', 'die', 'den'] },
+    { question: 'Wir gehen in ___ Supermarkt. (der)', options: ['den', 'dem', 'der'] },
+    { question: 'Ich setze mich neben ___ Mann. (der)', answer: 'den' },
+    { question: 'Er sitzt neben ___ Freundin. (die)', answer: 'der' },
+    { question: 'Das Auto steht vor ___ Haus.', options: ['dem', 'das', 'den'] },
+    { question: 'Die Kinder spielen ___ Park. (in + dem)', answer: 'im' }
+  ],
+  'a2-perfekt': [
+    { question: 'Ich habe einen Film ___. (sehen)', answer: 'gesehen' },
+    { question: 'Wir sind nach Wien ___. (fliegen)', answer: 'geflogen' },
+    { question: 'Er hat die Tür ___. (aufmachen)', answer: 'aufgemacht' },
+    { question: 'Sie hat ihre Freundin ___. (anrufen)', answer: 'angerufen' },
+    { question: 'Was hast du am Wochenende ___? (machen)', answer: 'gemacht' },
+    { question: 'Ich ___ heute früh aufgewacht.', options: ['bin', 'habe', 'hat'] },
+    { question: 'Wir ___ gestern lange gearbeitet.', options: ['haben', 'sind', 'seid'] },
+    { question: 'Er ist gestern nicht zur Arbeit ___.', options: ['gekommen', 'gekommt', 'gekomme'] },
+    { question: 'Hast du schon die E-Mail ___? (lesen)', answer: 'gelesen' },
+    { question: 'Sie ___ in Paris gewesen.', options: ['ist', 'hat', 'haben'] }
+  ],
+  'a2-praeteritum': [
+    { question: 'Letztes Jahr ___ wir in Italien. (sein)', answer: 'waren' },
+    { question: 'Er ___ keine Zeit. (haben)', answer: 'hatte' },
+    { question: 'Ich ___ gestern nicht arbeiten. (müssen)', answer: 'musste' },
+    { question: 'Als Kind ___ ich keine Angst vor Hunden. (haben)', answer: 'hatte' },
+    { question: 'Ihr ___ gestern nicht da. (sein)', answer: 'wart' },
+    { question: 'Wir ___ im Urlaub viel schwimmen. (können)', answer: 'konnten' },
+    { question: 'Du ___ gestern sehr müde.', options: ['warst', 'wart', 'war'] },
+    { question: 'Meine Mutter ___ keinen Hunger.', options: ['hatte', 'hatten', 'hattet'] },
+    { question: 'Mein Opa ___ nie ins Ausland reisen.', options: ['durfte', 'dürfte', 'durften'] },
+    { question: 'Wo ___ Sie gestern? (sein, Sie)', answer: 'waren' }
+  ],
+  'a2-nebensatz': [
+    { question: 'Ich lerne Deutsch, weil ich in Deutschland ___. (arbeiten, ich)', answer: 'arbeite' },
+    { question: 'Wenn du Hunger ___, koche ich etwas. (haben)', answer: 'hast' },
+    { question: 'Er weiß, dass sie morgen nicht ___. (kommen)', answer: 'kommt' },
+    { question: 'Ich weiß nicht, ___ er schon da ist.', options: ['ob', 'dass', 'weil'] },
+    { question: 'Ich bin zu Hause geblieben, ___ ich krank war.', options: ['weil', 'dass', 'ob'] },
+    { question: 'Выберите правильное предложение:', options: ['Er sagt, dass er keine Zeit hat.', 'Er sagt, dass er hat keine Zeit.', 'Er sagt, dass hat er keine Zeit.'] },
+    { question: 'Выберите правильное предложение:', options: ['Weil es kalt ist, trage ich eine Jacke.', 'Weil es ist kalt, trage ich eine Jacke.', 'Weil es kalt ist, ich trage eine Jacke.'] },
+    { question: 'Выберите правильное предложение:', options: ['Ich hoffe, dass du bald gesund wirst.', 'Ich hoffe, dass du wirst bald gesund.', 'Ich hoffe, dass wirst du bald gesund.'] },
+    { question: 'Ich frage mich, ___ das stimmt.', options: ['ob', 'dass', 'weil'] },
+    { question: 'Wenn wir Zeit ___, besuchen wir euch. (haben)', answer: 'haben' }
+  ],
+  'a2-komparation': [
+    { question: 'Mein Auto ist ___ als dein Auto. (schnell)', answer: 'schneller' },
+    { question: 'Der Mount Everest ist der ___ Berg der Welt. (hoch)', answer: 'höchste' },
+    { question: 'Ich esse Pizza ___ als Fisch. (gern)', answer: 'lieber' },
+    { question: 'Sie ist so groß ___ ihr Bruder.', options: ['wie', 'als', 'dass'] },
+    { question: 'Heute ist es ___ als gestern.', options: ['wärmer', 'warmer', 'wärmste'] },
+    { question: 'Was trinkst du am ___? (gern)', answer: 'liebsten' },
+    { question: 'Dieses Buch ist ___ als das andere. (gut)', answer: 'besser' },
+    { question: 'Im Sommer sind die Tage ___ als im Winter. (lang)', answer: 'länger' },
+    { question: 'Das ist der ___ Film, den ich je gesehen habe.', options: ['beste', 'bessere', 'gute'] },
+    { question: 'Mein Bruder spricht ___ Deutsch als ich. (gut)', answer: 'besser' }
+  ],
+  'a2-reflexiv': [
+    { question: 'Ich dusche ___ jeden Morgen.', answer: 'mich' },
+    { question: 'Du musst ___ beeilen. (du)', answer: 'dich' },
+    { question: 'Wir sehen ___ morgen. (wir)', answer: 'uns' },
+    { question: 'Sie ärgert ___ über den Lärm.', options: ['sich', 'ihr', 'sie'] },
+    { question: 'Ich muss ___ die Zähne putzen. (Dativ, ich)', answer: 'mir' },
+    { question: 'Die Kinder freuen ___ auf die Ferien.', options: ['sich', 'uns', 'euch'] },
+    { question: 'Hast du ___ schon angezogen?', options: ['dich', 'dir', 'sich'] },
+    { question: 'Ich möchte ___ ein Buch kaufen. (Dativ, ich)', answer: 'mir' },
+    { question: 'Ihr solltet ___ ausruhen. (ihr)', answer: 'euch' },
+    { question: 'Er erinnert ___ an seine Kindheit.', options: ['sich', 'ihn', 'ihm'] }
+  ],
+  'a2-adjektivdeklination': [
+    { question: 'Das ist ein ___ Buch. (interessant)', answer: 'interessantes' },
+    { question: 'Ich habe eine ___ Idee. (gut)', answer: 'gute' },
+    { question: 'Er kauft einen ___ Tisch. (groß)', answer: 'großen' },
+    { question: 'Wir wohnen in einer ___ Wohnung.', options: ['kleinen', 'kleine', 'kleiner'] },
+    { question: 'Das ist ein ___ Mann.', options: ['netter', 'nette', 'nettes'] },
+    { question: 'Sie trägt ein ___ Kleid.', options: ['schönes', 'schöne', 'schöner'] },
+    { question: 'Der ___ Hund spielt im Garten. (klein)', answer: 'kleine' },
+    { question: 'Ich suche eine ___ Wohnung. (billig)', answer: 'billige' },
+    { question: 'Das ___ Wetter gefällt mir. (schön, das Wetter)', answer: 'schöne' },
+    { question: 'Hast du einen ___ Kollegen?', options: ['neuen', 'neuer', 'neue'] }
+  ],
+  'a2-personalpronomen': [
+    { question: 'Ich liebe ___. (du)', answer: 'dich' },
+    { question: 'Der Kuchen schmeckt ___ gut. (wir)', answer: 'uns' },
+    { question: 'Hilfst du ___? (er)', answer: 'ihm' },
+    { question: 'Wo ist mein Handy? Hast du ___ gesehen?', options: ['es', 'ihm', 'er'] },
+    { question: 'Peter hat Geburtstag. Ich schenke ___ ein Buch.', options: ['ihm', 'ihn', 'er'] },
+    { question: 'Ich kenne Maria nicht. Kennst du ___?', options: ['sie', 'ihr', 'ihnen'] },
+    { question: 'Wir besuchen unsere Oma. Wir bringen ___ Blumen mit. (sie, Dativ)', answer: 'ihr' },
+    { question: 'Ich sehe ___ nicht. (ihr, вы)', answer: 'euch' },
+    { question: 'Die Kinder sind laut. Ich sage ___, sie sollen leise sein.', options: ['ihnen', 'sie', 'ihr'] },
+    { question: 'Gehört das Buch ___? (Sie, вежливо)', answer: 'Ihnen' }
+  ],
+  'a2-praepositionen-akkusativ': [
+    { question: 'Wir kaufen ein Geschenk für ___ Mutter. (unsere)', answer: 'unsere' },
+    { question: 'Er geht ohne ___ Jacke nach draußen. (die)', answer: 'die' },
+    { question: 'Der Bus fährt durch ___ Tunnel. (der)', answer: 'den' },
+    { question: 'Das Auto fuhr gegen ___ Baum.', options: ['einen', 'einem', 'einer'] },
+    { question: 'Sie läuft um ___ See.', options: ['den', 'dem', 'der'] },
+    { question: 'Das ist ein Brief für ___. (ich)', answer: 'mich' },
+    { question: 'Ohne ___ wäre es langweilig. (ihr)', answer: 'euch' },
+    { question: 'Das ist ein Geschenk für ___.', options: ['ihn', 'ihm', 'er'] },
+    { question: 'Wir sind gegen ___ Idee.', options: ['diese', 'dieser', 'diesem'] },
+    { question: 'Gehen Sie durch ___ Tür dort. (die)', answer: 'die' }
+  ],
+  'a2-konjunktionen': [
+    { question: 'Ich möchte kommen, ___ ich habe keine Zeit.', options: ['aber', 'sondern', 'deshalb'] },
+    { question: 'Er hat Hunger, ___ isst er etwas.', options: ['deshalb', 'denn', 'oder'] },
+    { question: 'Sie ist nicht Ärztin, ___ Lehrerin.', answer: 'sondern' },
+    { question: 'Wir bleiben zu Hause, ___ es regnet.', options: ['denn', 'deshalb', 'sondern'] },
+    { question: 'Es ist kalt, ___ geht er ohne Jacke raus.', options: ['trotzdem', 'denn', 'oder'] },
+    { question: 'Möchtest du ins Kino gehen ___ zu Hause bleiben?', answer: 'oder' },
+    { question: 'Выберите правильное предложение:', options: ['Er ist müde, deshalb geht er früh schlafen.', 'Er ist müde, deshalb er geht früh schlafen.', 'Er ist müde, deshalb geht schlafen er früh.'] },
+    { question: 'Выберите правильное предложение:', options: ['Ich lerne viel, denn ich habe morgen eine Prüfung.', 'Ich lerne viel, denn habe ich morgen eine Prüfung.', 'Ich lerne viel, denn ich morgen eine Prüfung habe.'] },
+    { question: 'Sie spricht Deutsch ___ Englisch.', options: ['und', 'sondern', 'deshalb'] },
+    { question: 'Das Essen war teuer, ___ es hat nicht geschmeckt.', options: ['aber', 'sondern', 'deshalb'] }
+  ]
+};
